@@ -1,0 +1,1885 @@
+1
+00:00:01,199 --> 00:00:03,590
+
+until recently the vast majority of the
+
+2
+00:00:03,590 --> 00:00:03,600
+until recently the vast majority of the
+ 
+
+3
+00:00:03,600 --> 00:00:05,829
+until recently the vast majority of the
+world population worked on farms and the
+
+4
+00:00:05,829 --> 00:00:05,839
+world population worked on farms and the
+ 
+
+5
+00:00:05,839 --> 00:00:07,990
+world population worked on farms and the
+total production of the world's economy
+
+6
+00:00:07,990 --> 00:00:08,000
+total production of the world's economy
+ 
+
+7
+00:00:08,000 --> 00:00:11,270
+total production of the world's economy
+was mostly the total agricultural output
+
+8
+00:00:11,270 --> 00:00:11,280
+was mostly the total agricultural output
+ 
+
+9
+00:00:11,280 --> 00:00:13,749
+was mostly the total agricultural output
+and this output was limited by the fixed
+
+10
+00:00:13,749 --> 00:00:13,759
+and this output was limited by the fixed
+ 
+
+11
+00:00:13,759 --> 00:00:16,550
+and this output was limited by the fixed
+size of the land the total output of the
+
+12
+00:00:16,550 --> 00:00:16,560
+size of the land the total output of the
+ 
+
+13
+00:00:16,560 --> 00:00:19,029
+size of the land the total output of the
+economy did not change a lot year by
+
+14
+00:00:19,029 --> 00:00:19,039
+economy did not change a lot year by
+ 
+
+15
+00:00:19,039 --> 00:00:20,230
+economy did not change a lot year by
+year
+
+16
+00:00:20,230 --> 00:00:20,240
+year
+ 
+
+17
+00:00:20,240 --> 00:00:23,109
+year
+the size of the pie was fixed the world
+
+18
+00:00:23,109 --> 00:00:23,119
+the size of the pie was fixed the world
+ 
+
+19
+00:00:23,119 --> 00:00:25,189
+the size of the pie was fixed the world
+was a zero-sum game
+
+20
+00:00:25,189 --> 00:00:25,199
+was a zero-sum game
+ 
+
+21
+00:00:25,199 --> 00:00:27,589
+was a zero-sum game
+in such a stagnating world the only way
+
+22
+00:00:27,589 --> 00:00:27,599
+in such a stagnating world the only way
+ 
+
+23
+00:00:27,599 --> 00:00:29,669
+in such a stagnating world the only way
+to get better off is if someone else
+
+24
+00:00:29,669 --> 00:00:29,679
+to get better off is if someone else
+ 
+
+25
+00:00:29,679 --> 00:00:31,990
+to get better off is if someone else
+gets worse off
+
+26
+00:00:31,990 --> 00:00:32,000
+gets worse off
+ 
+
+27
+00:00:32,000 --> 00:00:34,150
+gets worse off
+if you take a bigger piece of the pie
+
+28
+00:00:34,150 --> 00:00:34,160
+if you take a bigger piece of the pie
+ 
+
+29
+00:00:34,160 --> 00:00:36,229
+if you take a bigger piece of the pie
+someone else's gets smaller
+
+30
+00:00:36,229 --> 00:00:36,239
+someone else's gets smaller
+ 
+
+31
+00:00:36,239 --> 00:00:38,630
+someone else's gets smaller
+if you want more food then conquering
+
+32
+00:00:38,630 --> 00:00:38,640
+if you want more food then conquering
+ 
+
+33
+00:00:38,640 --> 00:00:40,549
+if you want more food then conquering
+plundering and stealing are great
+
+34
+00:00:40,549 --> 00:00:40,559
+plundering and stealing are great
+ 
+
+35
+00:00:40,559 --> 00:00:43,590
+plundering and stealing are great
+strategies your neighbor's loss is your
+
+36
+00:00:43,590 --> 00:00:43,600
+strategies your neighbor's loss is your
+ 
+
+37
+00:00:43,600 --> 00:00:45,190
+strategies your neighbor's loss is your
+gain
+
+38
+00:00:45,190 --> 00:00:45,200
+gain
+ 
+
+39
+00:00:45,200 --> 00:00:46,549
+gain
+this was the state of things for
+
+40
+00:00:46,549 --> 00:00:46,559
+this was the state of things for
+ 
+
+41
+00:00:46,559 --> 00:00:48,150
+this was the state of things for
+thousands of years
+
+42
+00:00:48,150 --> 00:00:48,160
+thousands of years
+ 
+
+43
+00:00:48,160 --> 00:00:50,389
+thousands of years
+societies invaded each other constantly
+
+44
+00:00:50,389 --> 00:00:50,399
+societies invaded each other constantly
+ 
+
+45
+00:00:50,399 --> 00:00:52,150
+societies invaded each other constantly
+to get more pie
+
+46
+00:00:52,150 --> 00:00:52,160
+to get more pie
+ 
+
+47
+00:00:52,160 --> 00:00:54,709
+to get more pie
+economic inequality was extreme
+
+48
+00:00:54,709 --> 00:00:54,719
+economic inequality was extreme
+ 
+
+49
+00:00:54,719 --> 00:00:57,110
+economic inequality was extreme
+some had all the pie they wanted while
+
+50
+00:00:57,110 --> 00:00:57,120
+some had all the pie they wanted while
+ 
+
+51
+00:00:57,120 --> 00:01:00,150
+some had all the pie they wanted while
+others had to live with the crumbs
+
+52
+00:01:00,150 --> 00:01:00,160
+others had to live with the crumbs
+ 
+
+53
+00:01:00,160 --> 00:01:02,709
+others had to live with the crumbs
+then the industrial revolution happened
+
+54
+00:01:02,709 --> 00:01:02,719
+then the industrial revolution happened
+ 
+
+55
+00:01:02,719 --> 00:01:04,710
+then the industrial revolution happened
+and everything changed
+
+56
+00:01:04,710 --> 00:01:04,720
+and everything changed
+ 
+
+57
+00:01:04,720 --> 00:01:07,190
+and everything changed
+we developed machinery better crops
+
+58
+00:01:07,190 --> 00:01:07,200
+we developed machinery better crops
+ 
+
+59
+00:01:07,200 --> 00:01:09,910
+we developed machinery better crops
+better fertilizers agricultural output
+
+60
+00:01:09,910 --> 00:01:09,920
+better fertilizers agricultural output
+ 
+
+61
+00:01:09,920 --> 00:01:12,469
+better fertilizers agricultural output
+skyrocketed but we didn't just produce
+
+62
+00:01:12,469 --> 00:01:12,479
+skyrocketed but we didn't just produce
+ 
+
+63
+00:01:12,479 --> 00:01:14,710
+skyrocketed but we didn't just produce
+more food every industrial sector
+
+64
+00:01:14,710 --> 00:01:14,720
+more food every industrial sector
+ 
+
+65
+00:01:14,720 --> 00:01:17,270
+more food every industrial sector
+exploded in terms of productivity
+
+66
+00:01:17,270 --> 00:01:17,280
+exploded in terms of productivity
+ 
+
+67
+00:01:17,280 --> 00:01:21,030
+exploded in terms of productivity
+from 1700 to 1870 the production of iron
+
+68
+00:01:21,030 --> 00:01:21,040
+from 1700 to 1870 the production of iron
+ 
+
+69
+00:01:21,040 --> 00:01:24,789
+from 1700 to 1870 the production of iron
+in britain increased 137 fold
+
+70
+00:01:24,789 --> 00:01:24,799
+in britain increased 137 fold
+ 
+
+71
+00:01:24,799 --> 00:01:26,950
+in britain increased 137 fold
+the industrial revolution led to a
+
+72
+00:01:26,950 --> 00:01:26,960
+the industrial revolution led to a
+ 
+
+73
+00:01:26,960 --> 00:01:29,190
+the industrial revolution led to a
+previously unimaginable increase in
+
+74
+00:01:29,190 --> 00:01:29,200
+previously unimaginable increase in
+ 
+
+75
+00:01:29,200 --> 00:01:31,030
+previously unimaginable increase in
+economic output
+
+76
+00:01:31,030 --> 00:01:31,040
+economic output
+ 
+
+77
+00:01:31,040 --> 00:01:34,149
+economic output
+this altered the nature of our societies
+
+78
+00:01:34,149 --> 00:01:34,159
+this altered the nature of our societies
+ 
+
+79
+00:01:34,159 --> 00:01:36,230
+this altered the nature of our societies
+economic growth changed the world from a
+
+80
+00:01:36,230 --> 00:01:36,240
+economic growth changed the world from a
+ 
+
+81
+00:01:36,240 --> 00:01:40,950
+economic growth changed the world from a
+zero-sum game to a positive sum game
+
+82
+00:01:40,950 --> 00:01:40,960
+zero-sum game to a positive sum game
+ 
+
+83
+00:01:40,960 --> 00:01:42,950
+zero-sum game to a positive sum game
+we had found a way to create a bigger
+
+84
+00:01:42,950 --> 00:01:42,960
+we had found a way to create a bigger
+ 
+
+85
+00:01:42,960 --> 00:01:43,830
+we had found a way to create a bigger
+pie
+
+86
+00:01:43,830 --> 00:01:43,840
+pie
+ 
+
+87
+00:01:43,840 --> 00:01:46,310
+pie
+but not only a bigger pie but a pie that
+
+88
+00:01:46,310 --> 00:01:46,320
+but not only a bigger pie but a pie that
+ 
+
+89
+00:01:46,320 --> 00:01:48,630
+but not only a bigger pie but a pie that
+was growing bigger each year
+
+90
+00:01:48,630 --> 00:01:48,640
+was growing bigger each year
+ 
+
+91
+00:01:48,640 --> 00:01:50,630
+was growing bigger each year
+more people could have more at the same
+
+92
+00:01:50,630 --> 00:01:50,640
+more people could have more at the same
+ 
+
+93
+00:01:50,640 --> 00:01:51,670
+more people could have more at the same
+time
+
+94
+00:01:51,670 --> 00:01:51,680
+time
+ 
+
+95
+00:01:51,680 --> 00:01:53,109
+time
+this development is spreading and
+
+96
+00:01:53,109 --> 00:01:53,119
+this development is spreading and
+ 
+
+97
+00:01:53,119 --> 00:01:55,590
+this development is spreading and
+continuing today antibiotics kill
+
+98
+00:01:55,590 --> 00:01:55,600
+continuing today antibiotics kill
+ 
+
+99
+00:01:55,600 --> 00:01:58,230
+continuing today antibiotics kill
+bacteria power plants deliver energy
+
+100
+00:01:58,230 --> 00:01:58,240
+bacteria power plants deliver energy
+ 
+
+101
+00:01:58,240 --> 00:02:00,389
+bacteria power plants deliver energy
+cell phones connect us planes let us
+
+102
+00:02:00,389 --> 00:02:00,399
+cell phones connect us planes let us
+ 
+
+103
+00:02:00,399 --> 00:02:03,109
+cell phones connect us planes let us
+travel cheaply fridges store food
+
+104
+00:02:03,109 --> 00:02:03,119
+travel cheaply fridges store food
+ 
+
+105
+00:02:03,119 --> 00:02:05,109
+travel cheaply fridges store food
+continuous progress in all sectors of
+
+106
+00:02:05,109 --> 00:02:05,119
+continuous progress in all sectors of
+ 
+
+107
+00:02:05,119 --> 00:02:08,150
+continuous progress in all sectors of
+the economy seems normal to us today but
+
+108
+00:02:08,150 --> 00:02:08,160
+the economy seems normal to us today but
+ 
+
+109
+00:02:08,160 --> 00:02:10,389
+the economy seems normal to us today but
+the change from stagnation to economic
+
+110
+00:02:10,389 --> 00:02:10,399
+the change from stagnation to economic
+ 
+
+111
+00:02:10,399 --> 00:02:13,430
+the change from stagnation to economic
+growth really was the most drastic shift
+
+112
+00:02:13,430 --> 00:02:13,440
+growth really was the most drastic shift
+ 
+
+113
+00:02:13,440 --> 00:02:16,710
+growth really was the most drastic shift
+in human history how was this possible
+
+114
+00:02:16,710 --> 00:02:16,720
+in human history how was this possible
+ 
+
+115
+00:02:16,720 --> 00:02:18,390
+in human history how was this possible
+at the very core of this massive
+
+116
+00:02:18,390 --> 00:02:18,400
+at the very core of this massive
+ 
+
+117
+00:02:18,400 --> 00:02:21,110
+at the very core of this massive
+transformation stand new ideas that lead
+
+118
+00:02:21,110 --> 00:02:21,120
+transformation stand new ideas that lead
+ 
+
+119
+00:02:21,120 --> 00:02:22,790
+transformation stand new ideas that lead
+to innovation
+
+120
+00:02:22,790 --> 00:02:22,800
+to innovation
+ 
+
+121
+00:02:22,800 --> 00:02:24,309
+to innovation
+innovation has many different
+
+122
+00:02:24,309 --> 00:02:24,319
+innovation has many different
+ 
+
+123
+00:02:24,319 --> 00:02:26,470
+innovation has many different
+definitions but in the context of this
+
+124
+00:02:26,470 --> 00:02:26,480
+definitions but in the context of this
+ 
+
+125
+00:02:26,480 --> 00:02:28,550
+definitions but in the context of this
+video we mean better solutions to
+
+126
+00:02:28,550 --> 00:02:28,560
+video we mean better solutions to
+ 
+
+127
+00:02:28,560 --> 00:02:30,869
+video we mean better solutions to
+existing problems and solutions to
+
+128
+00:02:30,869 --> 00:02:30,879
+existing problems and solutions to
+ 
+
+129
+00:02:30,879 --> 00:02:33,670
+existing problems and solutions to
+problems we didn't know we had
+
+130
+00:02:33,670 --> 00:02:33,680
+problems we didn't know we had
+ 
+
+131
+00:02:33,680 --> 00:02:36,309
+problems we didn't know we had
+the more you innovate the more complex
+
+132
+00:02:36,309 --> 00:02:36,319
+the more you innovate the more complex
+ 
+
+133
+00:02:36,319 --> 00:02:38,710
+the more you innovate the more complex
+and interesting problems you discover as
+
+134
+00:02:38,710 --> 00:02:38,720
+and interesting problems you discover as
+ 
+
+135
+00:02:38,720 --> 00:02:41,509
+and interesting problems you discover as
+your wishes and needs evolve
+
+136
+00:02:41,509 --> 00:02:41,519
+your wishes and needs evolve
+ 
+
+137
+00:02:41,519 --> 00:02:44,390
+your wishes and needs evolve
+the average citizen in norway 250 years
+
+138
+00:02:44,390 --> 00:02:44,400
+the average citizen in norway 250 years
+ 
+
+139
+00:02:44,400 --> 00:02:46,390
+the average citizen in norway 250 years
+ago might have wanted some really good
+
+140
+00:02:46,390 --> 00:02:46,400
+ago might have wanted some really good
+ 
+
+141
+00:02:46,400 --> 00:02:47,430
+ago might have wanted some really good
+shoes
+
+142
+00:02:47,430 --> 00:02:47,440
+shoes
+ 
+
+143
+00:02:47,440 --> 00:02:50,710
+shoes
+150 years ago maybe a bicycle 80 years
+
+144
+00:02:50,710 --> 00:02:50,720
+150 years ago maybe a bicycle 80 years
+ 
+
+145
+00:02:50,720 --> 00:02:54,790
+150 years ago maybe a bicycle 80 years
+ago a car 30 years ago cheap air travel
+
+146
+00:02:54,790 --> 00:02:54,800
+ago a car 30 years ago cheap air travel
+ 
+
+147
+00:02:54,800 --> 00:02:56,150
+ago a car 30 years ago cheap air travel
+and so on
+
+148
+00:02:56,150 --> 00:02:56,160
+and so on
+ 
+
+149
+00:02:56,160 --> 00:02:58,790
+and so on
+once we get what we want we don't stop
+
+150
+00:02:58,790 --> 00:02:58,800
+once we get what we want we don't stop
+ 
+
+151
+00:02:58,800 --> 00:03:00,470
+once we get what we want we don't stop
+we can see how we can improve things
+
+152
+00:03:00,470 --> 00:03:00,480
+we can see how we can improve things
+ 
+
+153
+00:03:00,480 --> 00:03:02,470
+we can see how we can improve things
+even more and how to make things even
+
+154
+00:03:02,470 --> 00:03:02,480
+even more and how to make things even
+ 
+
+155
+00:03:02,480 --> 00:03:03,750
+even more and how to make things even
+better
+
+156
+00:03:03,750 --> 00:03:03,760
+better
+ 
+
+157
+00:03:03,760 --> 00:03:05,990
+better
+the new positive some world has existed
+
+158
+00:03:05,990 --> 00:03:06,000
+the new positive some world has existed
+ 
+
+159
+00:03:06,000 --> 00:03:09,190
+the new positive some world has existed
+for 0.1 percent of human history and we
+
+160
+00:03:09,190 --> 00:03:09,200
+for 0.1 percent of human history and we
+ 
+
+161
+00:03:09,200 --> 00:03:11,509
+for 0.1 percent of human history and we
+have yet to get used to it it has a
+
+162
+00:03:11,509 --> 00:03:11,519
+have yet to get used to it it has a
+ 
+
+163
+00:03:11,519 --> 00:03:13,270
+have yet to get used to it it has a
+consequence that feels really
+
+164
+00:03:13,270 --> 00:03:13,280
+consequence that feels really
+ 
+
+165
+00:03:13,280 --> 00:03:14,630
+consequence that feels really
+unintuitive
+
+166
+00:03:14,630 --> 00:03:14,640
+unintuitive
+ 
+
+167
+00:03:14,640 --> 00:03:17,430
+unintuitive
+in a positive sum world it's in your
+
+168
+00:03:17,430 --> 00:03:17,440
+in a positive sum world it's in your
+ 
+
+169
+00:03:17,440 --> 00:03:20,070
+in a positive sum world it's in your
+personal selfish best interest that
+
+170
+00:03:20,070 --> 00:03:20,080
+personal selfish best interest that
+ 
+
+171
+00:03:20,080 --> 00:03:23,270
+personal selfish best interest that
+every human on planet earth is well off
+
+172
+00:03:23,270 --> 00:03:23,280
+every human on planet earth is well off
+ 
+
+173
+00:03:23,280 --> 00:03:25,509
+every human on planet earth is well off
+it's good for you if people in obscure
+
+174
+00:03:25,509 --> 00:03:25,519
+it's good for you if people in obscure
+ 
+
+175
+00:03:25,519 --> 00:03:27,509
+it's good for you if people in obscure
+parts of countries you've never heard of
+
+176
+00:03:27,509 --> 00:03:27,519
+parts of countries you've never heard of
+ 
+
+177
+00:03:27,519 --> 00:03:30,229
+parts of countries you've never heard of
+are prospering
+
+178
+00:03:30,229 --> 00:03:30,239
+are prospering
+ 
+
+179
+00:03:30,239 --> 00:03:33,270
+are prospering
+there is a genuine selfish argument for
+
+180
+00:03:33,270 --> 00:03:33,280
+there is a genuine selfish argument for
+ 
+
+181
+00:03:33,280 --> 00:03:35,830
+there is a genuine selfish argument for
+making the world a better place
+
+182
+00:03:35,830 --> 00:03:35,840
+making the world a better place
+ 
+
+183
+00:03:35,840 --> 00:03:38,630
+making the world a better place
+in a positive some world the more people
+
+184
+00:03:38,630 --> 00:03:38,640
+in a positive some world the more people
+ 
+
+185
+00:03:38,640 --> 00:03:42,390
+in a positive some world the more people
+are well off the better your own life is
+
+186
+00:03:42,390 --> 00:03:42,400
+are well off the better your own life is
+ 
+
+187
+00:03:42,400 --> 00:03:44,070
+are well off the better your own life is
+this is because of the nature of
+
+188
+00:03:44,070 --> 00:03:44,080
+this is because of the nature of
+ 
+
+189
+00:03:44,080 --> 00:03:46,710
+this is because of the nature of
+innovation it is fundamentally driven by
+
+190
+00:03:46,710 --> 00:03:46,720
+innovation it is fundamentally driven by
+ 
+
+191
+00:03:46,720 --> 00:03:48,710
+innovation it is fundamentally driven by
+supply and demand
+
+192
+00:03:48,710 --> 00:03:48,720
+supply and demand
+ 
+
+193
+00:03:48,720 --> 00:03:50,470
+supply and demand
+the supply increases when more people
+
+194
+00:03:50,470 --> 00:03:50,480
+the supply increases when more people
+ 
+
+195
+00:03:50,480 --> 00:03:52,309
+the supply increases when more people
+have the freedom and education to
+
+196
+00:03:52,309 --> 00:03:52,319
+have the freedom and education to
+ 
+
+197
+00:03:52,319 --> 00:03:53,509
+have the freedom and education to
+contribute
+
+198
+00:03:53,509 --> 00:03:53,519
+contribute
+ 
+
+199
+00:03:53,519 --> 00:03:56,070
+contribute
+they become inventors researchers
+
+200
+00:03:56,070 --> 00:03:56,080
+they become inventors researchers
+ 
+
+201
+00:03:56,080 --> 00:03:58,149
+they become inventors researchers
+engineers or thinkers that come up with
+
+202
+00:03:58,149 --> 00:03:58,159
+engineers or thinkers that come up with
+ 
+
+203
+00:03:58,159 --> 00:04:00,070
+engineers or thinkers that come up with
+new ideas
+
+204
+00:04:00,070 --> 00:04:00,080
+new ideas
+ 
+
+205
+00:04:00,080 --> 00:04:02,550
+new ideas
+the demand for ideas increases as people
+
+206
+00:04:02,550 --> 00:04:02,560
+the demand for ideas increases as people
+ 
+
+207
+00:04:02,560 --> 00:04:05,589
+the demand for ideas increases as people
+get richer and can pay for new solutions
+
+208
+00:04:05,589 --> 00:04:05,599
+get richer and can pay for new solutions
+ 
+
+209
+00:04:05,599 --> 00:04:07,910
+get richer and can pay for new solutions
+they increase the size of the market for
+
+210
+00:04:07,910 --> 00:04:07,920
+they increase the size of the market for
+ 
+
+211
+00:04:07,920 --> 00:04:10,470
+they increase the size of the market for
+innovations innovation follows
+
+212
+00:04:10,470 --> 00:04:10,480
+innovations innovation follows
+ 
+
+213
+00:04:10,480 --> 00:04:12,149
+innovations innovation follows
+incentives
+
+214
+00:04:12,149 --> 00:04:12,159
+incentives
+ 
+
+215
+00:04:12,159 --> 00:04:14,550
+incentives
+so naturally if many people want and can
+
+216
+00:04:14,550 --> 00:04:14,560
+so naturally if many people want and can
+ 
+
+217
+00:04:14,560 --> 00:04:16,229
+so naturally if many people want and can
+pay for something it will get the
+
+218
+00:04:16,229 --> 00:04:16,239
+pay for something it will get the
+ 
+
+219
+00:04:16,239 --> 00:04:19,189
+pay for something it will get the
+innovators attention and energy
+
+220
+00:04:19,189 --> 00:04:19,199
+innovators attention and energy
+ 
+
+221
+00:04:19,199 --> 00:04:21,189
+innovators attention and energy
+improving the lives of those who are
+
+222
+00:04:21,189 --> 00:04:21,199
+improving the lives of those who are
+ 
+
+223
+00:04:21,199 --> 00:04:24,469
+improving the lives of those who are
+worst off has a multiplying effect it
+
+224
+00:04:24,469 --> 00:04:24,479
+worst off has a multiplying effect it
+ 
+
+225
+00:04:24,479 --> 00:04:27,030
+worst off has a multiplying effect it
+increases demand for ideas while at the
+
+226
+00:04:27,030 --> 00:04:27,040
+increases demand for ideas while at the
+ 
+
+227
+00:04:27,040 --> 00:04:30,310
+increases demand for ideas while at the
+same time making it easier for ideas to
+
+228
+00:04:30,310 --> 00:04:30,320
+same time making it easier for ideas to
+ 
+
+229
+00:04:30,320 --> 00:04:31,510
+same time making it easier for ideas to
+be produced
+
+230
+00:04:31,510 --> 00:04:31,520
+be produced
+ 
+
+231
+00:04:31,520 --> 00:04:33,350
+be produced
+let's take an example that interests all
+
+232
+00:04:33,350 --> 00:04:33,360
+let's take an example that interests all
+ 
+
+233
+00:04:33,360 --> 00:04:35,990
+let's take an example that interests all
+of us a cure for cancer
+
+234
+00:04:35,990 --> 00:04:36,000
+of us a cure for cancer
+ 
+
+235
+00:04:36,000 --> 00:04:37,510
+of us a cure for cancer
+if there are 1 billion people in the
+
+236
+00:04:37,510 --> 00:04:37,520
+if there are 1 billion people in the
+ 
+
+237
+00:04:37,520 --> 00:04:38,950
+if there are 1 billion people in the
+world that have the wealth to pay for
+
+238
+00:04:38,950 --> 00:04:38,960
+world that have the wealth to pay for
+ 
+
+239
+00:04:38,960 --> 00:04:41,189
+world that have the wealth to pay for
+cancer treatments innovation will follow
+
+240
+00:04:41,189 --> 00:04:41,199
+cancer treatments innovation will follow
+ 
+
+241
+00:04:41,199 --> 00:04:42,550
+cancer treatments innovation will follow
+this demand
+
+242
+00:04:42,550 --> 00:04:42,560
+this demand
+ 
+
+243
+00:04:42,560 --> 00:04:44,230
+this demand
+so hundreds of billions of dollars have
+
+244
+00:04:44,230 --> 00:04:44,240
+so hundreds of billions of dollars have
+ 
+
+245
+00:04:44,240 --> 00:04:46,390
+so hundreds of billions of dollars have
+been invested in medical research
+
+246
+00:04:46,390 --> 00:04:46,400
+been invested in medical research
+ 
+
+247
+00:04:46,400 --> 00:04:48,629
+been invested in medical research
+this had a huge effect but we're still
+
+248
+00:04:48,629 --> 00:04:48,639
+this had a huge effect but we're still
+ 
+
+249
+00:04:48,639 --> 00:04:50,310
+this had a huge effect but we're still
+nowhere near to curing all forms of
+
+250
+00:04:50,310 --> 00:04:50,320
+nowhere near to curing all forms of
+ 
+
+251
+00:04:50,320 --> 00:04:51,270
+nowhere near to curing all forms of
+cancer
+
+252
+00:04:51,270 --> 00:04:51,280
+cancer
+ 
+
+253
+00:04:51,280 --> 00:04:53,350
+cancer
+today every sixth person in the world
+
+254
+00:04:53,350 --> 00:04:53,360
+today every sixth person in the world
+ 
+
+255
+00:04:53,360 --> 00:04:55,430
+today every sixth person in the world
+dies of cancer and you might be one of
+
+256
+00:04:55,430 --> 00:04:55,440
+dies of cancer and you might be one of
+ 
+
+257
+00:04:55,440 --> 00:04:56,550
+dies of cancer and you might be one of
+them
+
+258
+00:04:56,550 --> 00:04:56,560
+them
+ 
+
+259
+00:04:56,560 --> 00:04:59,189
+them
+now imagine if demand were higher
+
+260
+00:04:59,189 --> 00:04:59,199
+now imagine if demand were higher
+ 
+
+261
+00:04:59,199 --> 00:05:01,350
+now imagine if demand were higher
+imagine instead of one billion people
+
+262
+00:05:01,350 --> 00:05:01,360
+imagine instead of one billion people
+ 
+
+263
+00:05:01,360 --> 00:05:03,510
+imagine instead of one billion people
+being able to pay for a cure for cancer
+
+264
+00:05:03,510 --> 00:05:03,520
+being able to pay for a cure for cancer
+ 
+
+265
+00:05:03,520 --> 00:05:06,870
+being able to pay for a cure for cancer
+there were four billion or seven billion
+
+266
+00:05:06,870 --> 00:05:06,880
+there were four billion or seven billion
+ 
+
+267
+00:05:06,880 --> 00:05:08,629
+there were four billion or seven billion
+imagine how far medicine could have
+
+268
+00:05:08,629 --> 00:05:08,639
+imagine how far medicine could have
+ 
+
+269
+00:05:08,639 --> 00:05:10,710
+imagine how far medicine could have
+developed if we'd invested seven times
+
+270
+00:05:10,710 --> 00:05:10,720
+developed if we'd invested seven times
+ 
+
+271
+00:05:10,720 --> 00:05:13,270
+developed if we'd invested seven times
+as much in curing cancer
+
+272
+00:05:13,270 --> 00:05:13,280
+as much in curing cancer
+ 
+
+273
+00:05:13,280 --> 00:05:15,510
+as much in curing cancer
+on top of that there's so much human
+
+274
+00:05:15,510 --> 00:05:15,520
+on top of that there's so much human
+ 
+
+275
+00:05:15,520 --> 00:05:17,909
+on top of that there's so much human
+potential being wasted right now
+
+276
+00:05:17,909 --> 00:05:17,919
+potential being wasted right now
+ 
+
+277
+00:05:17,919 --> 00:05:19,430
+potential being wasted right now
+the work of a poor farmer in a
+
+278
+00:05:19,430 --> 00:05:19,440
+the work of a poor farmer in a
+ 
+
+279
+00:05:19,440 --> 00:05:22,070
+the work of a poor farmer in a
+developing nation is not useful to you
+
+280
+00:05:22,070 --> 00:05:22,080
+developing nation is not useful to you
+ 
+
+281
+00:05:22,080 --> 00:05:24,230
+developing nation is not useful to you
+but if he becomes better off his
+
+282
+00:05:24,230 --> 00:05:24,240
+but if he becomes better off his
+ 
+
+283
+00:05:24,240 --> 00:05:25,909
+but if he becomes better off his
+children might spend their time in
+
+284
+00:05:25,909 --> 00:05:25,919
+children might spend their time in
+ 
+
+285
+00:05:25,919 --> 00:05:28,230
+children might spend their time in
+university developing things that are
+
+286
+00:05:28,230 --> 00:05:28,240
+university developing things that are
+ 
+
+287
+00:05:28,240 --> 00:05:29,590
+university developing things that are
+useful to you
+
+288
+00:05:29,590 --> 00:05:29,600
+useful to you
+ 
+
+289
+00:05:29,600 --> 00:05:31,670
+useful to you
+instead of having some hot spots of
+
+290
+00:05:31,670 --> 00:05:31,680
+instead of having some hot spots of
+ 
+
+291
+00:05:31,680 --> 00:05:33,590
+instead of having some hot spots of
+innovation in the developed world we
+
+292
+00:05:33,590 --> 00:05:33,600
+innovation in the developed world we
+ 
+
+293
+00:05:33,600 --> 00:05:35,749
+innovation in the developed world we
+would have many hot spots all over the
+
+294
+00:05:35,749 --> 00:05:35,759
+would have many hot spots all over the
+ 
+
+295
+00:05:35,759 --> 00:05:36,950
+would have many hot spots all over the
+world
+
+296
+00:05:36,950 --> 00:05:36,960
+world
+ 
+
+297
+00:05:36,960 --> 00:05:39,510
+world
+the research output of humanity would be
+
+298
+00:05:39,510 --> 00:05:39,520
+the research output of humanity would be
+ 
+
+299
+00:05:39,520 --> 00:05:42,390
+the research output of humanity would be
+many times what it is right now
+
+300
+00:05:42,390 --> 00:05:42,400
+many times what it is right now
+ 
+
+301
+00:05:42,400 --> 00:05:44,230
+many times what it is right now
+could we have cured cancer by now if
+
+302
+00:05:44,230 --> 00:05:44,240
+could we have cured cancer by now if
+ 
+
+303
+00:05:44,240 --> 00:05:46,790
+could we have cured cancer by now if
+that were the case well maybe if we
+
+304
+00:05:46,790 --> 00:05:46,800
+that were the case well maybe if we
+ 
+
+305
+00:05:46,800 --> 00:05:49,029
+that were the case well maybe if we
+spent seven times as much on research
+
+306
+00:05:49,029 --> 00:05:49,039
+spent seven times as much on research
+ 
+
+307
+00:05:49,039 --> 00:05:51,110
+spent seven times as much on research
+had seven times as many people working
+
+308
+00:05:51,110 --> 00:05:51,120
+had seven times as many people working
+ 
+
+309
+00:05:51,120 --> 00:05:53,270
+had seven times as many people working
+on it and a global network of medical
+
+310
+00:05:53,270 --> 00:05:53,280
+on it and a global network of medical
+ 
+
+311
+00:05:53,280 --> 00:05:55,189
+on it and a global network of medical
+research things would certainly be
+
+312
+00:05:55,189 --> 00:05:55,199
+research things would certainly be
+ 
+
+313
+00:05:55,199 --> 00:05:57,189
+research things would certainly be
+further ahead than they are now
+
+314
+00:05:57,189 --> 00:05:57,199
+further ahead than they are now
+ 
+
+315
+00:05:57,199 --> 00:05:59,670
+further ahead than they are now
+and this is the core of the argument the
+
+316
+00:05:59,670 --> 00:05:59,680
+and this is the core of the argument the
+ 
+
+317
+00:05:59,680 --> 00:06:01,510
+and this is the core of the argument the
+more people want the same thing that you
+
+318
+00:06:01,510 --> 00:06:01,520
+more people want the same thing that you
+ 
+
+319
+00:06:01,520 --> 00:06:04,790
+more people want the same thing that you
+want the more likely you are to get it
+
+320
+00:06:04,790 --> 00:06:04,800
+want the more likely you are to get it
+ 
+
+321
+00:06:04,800 --> 00:06:06,710
+want the more likely you are to get it
+that is what it means to live in a
+
+322
+00:06:06,710 --> 00:06:06,720
+that is what it means to live in a
+ 
+
+323
+00:06:06,720 --> 00:06:08,790
+that is what it means to live in a
+positive sun world
+
+324
+00:06:08,790 --> 00:06:08,800
+positive sun world
+ 
+
+325
+00:06:08,800 --> 00:06:11,189
+positive sun world
+you don't gain more pie if poor places
+
+326
+00:06:11,189 --> 00:06:11,199
+you don't gain more pie if poor places
+ 
+
+327
+00:06:11,199 --> 00:06:14,150
+you don't gain more pie if poor places
+stay poor instead you get more pie if
+
+328
+00:06:14,150 --> 00:06:14,160
+stay poor instead you get more pie if
+ 
+
+329
+00:06:14,160 --> 00:06:17,110
+stay poor instead you get more pie if
+poor places get richer contribute ideas
+
+330
+00:06:17,110 --> 00:06:17,120
+poor places get richer contribute ideas
+ 
+
+331
+00:06:17,120 --> 00:06:20,469
+poor places get richer contribute ideas
+and grow the global pie do you like
+
+332
+00:06:20,469 --> 00:06:20,479
+and grow the global pie do you like
+ 
+
+333
+00:06:20,479 --> 00:06:21,830
+and grow the global pie do you like
+space travel
+
+334
+00:06:21,830 --> 00:06:21,840
+space travel
+ 
+
+335
+00:06:21,840 --> 00:06:23,590
+space travel
+imagine there were billions of people in
+
+336
+00:06:23,590 --> 00:06:23,600
+imagine there were billions of people in
+ 
+
+337
+00:06:23,600 --> 00:06:25,430
+imagine there were billions of people in
+africa and asia with their own space
+
+338
+00:06:25,430 --> 00:06:25,440
+africa and asia with their own space
+ 
+
+339
+00:06:25,440 --> 00:06:27,990
+africa and asia with their own space
+programs and demand for satellites and
+
+340
+00:06:27,990 --> 00:06:28,000
+programs and demand for satellites and
+ 
+
+341
+00:06:28,000 --> 00:06:30,710
+programs and demand for satellites and
+moon bases and cities on mars
+
+342
+00:06:30,710 --> 00:06:30,720
+moon bases and cities on mars
+ 
+
+343
+00:06:30,720 --> 00:06:33,029
+moon bases and cities on mars
+do you like being alive a few billion
+
+344
+00:06:33,029 --> 00:06:33,039
+do you like being alive a few billion
+ 
+
+345
+00:06:33,039 --> 00:06:35,110
+do you like being alive a few billion
+people paying for medical research could
+
+346
+00:06:35,110 --> 00:06:35,120
+people paying for medical research could
+ 
+
+347
+00:06:35,120 --> 00:06:37,430
+people paying for medical research could
+literally save your life
+
+348
+00:06:37,430 --> 00:06:37,440
+literally save your life
+ 
+
+349
+00:06:37,440 --> 00:06:39,350
+literally save your life
+it's in your interest for people around
+
+350
+00:06:39,350 --> 00:06:39,360
+it's in your interest for people around
+ 
+
+351
+00:06:39,360 --> 00:06:41,749
+it's in your interest for people around
+the world to become better off
+
+352
+00:06:41,749 --> 00:06:41,759
+the world to become better off
+ 
+
+353
+00:06:41,759 --> 00:06:43,590
+the world to become better off
+the faster we get to this version of the
+
+354
+00:06:43,590 --> 00:06:43,600
+the faster we get to this version of the
+ 
+
+355
+00:06:43,600 --> 00:06:46,309
+the faster we get to this version of the
+world the better for you personally
+
+356
+00:06:46,309 --> 00:06:46,319
+world the better for you personally
+ 
+
+357
+00:06:46,319 --> 00:06:48,390
+world the better for you personally
+no matter what your motivation is
+
+358
+00:06:48,390 --> 00:06:48,400
+no matter what your motivation is
+ 
+
+359
+00:06:48,400 --> 00:06:50,790
+no matter what your motivation is
+working on a better world is a very good
+
+360
+00:06:50,790 --> 00:06:50,800
+working on a better world is a very good
+ 
+
+361
+00:06:50,800 --> 00:06:52,070
+working on a better world is a very good
+thing to do
+
+362
+00:06:52,070 --> 00:06:52,080
+thing to do
+ 
+
+363
+00:06:52,080 --> 00:06:53,270
+thing to do
+for others
+
+364
+00:06:53,270 --> 00:06:53,280
+for others
+ 
+
+365
+00:06:53,280 --> 00:06:56,150
+for others
+and for you
+
+366
+00:06:56,150 --> 00:06:56,160
+
+ 
+
+367
+00:06:56,160 --> 00:06:58,070
+
+this video was a collaboration with max
+
+368
+00:06:58,070 --> 00:06:58,080
+this video was a collaboration with max
+ 
+
+369
+00:06:58,080 --> 00:07:00,790
+this video was a collaboration with max
+rosa and our world in data and supported
+
+370
+00:07:00,790 --> 00:07:00,800
+rosa and our world in data and supported
+ 
+
+371
+00:07:00,800 --> 00:07:03,589
+rosa and our world in data and supported
+by the bill and melinda gates foundation
+
+372
+00:07:03,589 --> 00:07:03,599
+by the bill and melinda gates foundation
+ 
+
+373
+00:07:03,599 --> 00:07:05,110
+by the bill and melinda gates foundation
+if you want to help us stay afloat and
+
+374
+00:07:05,110 --> 00:07:05,120
+if you want to help us stay afloat and
+ 
+
+375
+00:07:05,120 --> 00:07:07,029
+if you want to help us stay afloat and
+make more videos you can support us on
+
+376
+00:07:07,029 --> 00:07:07,039
+make more videos you can support us on
+ 
+
+377
+00:07:07,039 --> 00:07:12,039
+make more videos you can support us on
+patreon or get some of our fancy posters
+

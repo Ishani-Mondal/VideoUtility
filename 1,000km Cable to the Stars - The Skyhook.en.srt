@@ -1,0 +1,1725 @@
+1
+00:00:01,280 --> 00:00:04,150
+
+getting to space is hard right now it's
+
+2
+00:00:04,150 --> 00:00:04,160
+getting to space is hard right now it's
+ 
+
+3
+00:00:04,160 --> 00:00:06,590
+getting to space is hard right now it's
+like going up a mountain on a unicycle
+
+4
+00:00:06,590 --> 00:00:06,600
+like going up a mountain on a unicycle
+ 
+
+5
+00:00:06,600 --> 00:00:09,070
+like going up a mountain on a unicycle
+with a backpack full of explosives
+
+6
+00:00:09,070 --> 00:00:09,080
+with a backpack full of explosives
+ 
+
+7
+00:00:09,080 --> 00:00:11,230
+with a backpack full of explosives
+incredibly slow you can't transport a
+
+8
+00:00:11,230 --> 00:00:11,240
+incredibly slow you can't transport a
+ 
+
+9
+00:00:11,240 --> 00:00:14,270
+incredibly slow you can't transport a
+lot of stuff and you might die a rocket
+
+10
+00:00:14,270 --> 00:00:14,280
+lot of stuff and you might die a rocket
+ 
+
+11
+00:00:14,280 --> 00:00:16,349
+lot of stuff and you might die a rocket
+needs to reach a velocity of about
+
+12
+00:00:16,349 --> 00:00:16,359
+needs to reach a velocity of about
+ 
+
+13
+00:00:16,359 --> 00:00:19,990
+needs to reach a velocity of about
+40,000 km hour to escape from Earth to
+
+14
+00:00:19,990 --> 00:00:20,000
+40,000 km hour to escape from Earth to
+ 
+
+15
+00:00:20,000 --> 00:00:22,310
+40,000 km hour to escape from Earth to
+get to that speed Rockets are mostly
+
+16
+00:00:22,310 --> 00:00:22,320
+get to that speed Rockets are mostly
+ 
+
+17
+00:00:22,320 --> 00:00:25,109
+get to that speed Rockets are mostly
+containers for fuel with a tiny tip of
+
+18
+00:00:25,109 --> 00:00:25,119
+containers for fuel with a tiny tip of
+ 
+
+19
+00:00:25,119 --> 00:00:27,630
+containers for fuel with a tiny tip of
+payload this is bad if you want to go to
+
+20
+00:00:27,630 --> 00:00:27,640
+payload this is bad if you want to go to
+ 
+
+21
+00:00:27,640 --> 00:00:29,589
+payload this is bad if you want to go to
+other planets because you need a lot of
+
+22
+00:00:29,589 --> 00:00:29,599
+other planets because you need a lot of
+ 
+
+23
+00:00:29,599 --> 00:00:32,310
+other planets because you need a lot of
+heavy stuff if you want to survive and
+
+24
+00:00:32,310 --> 00:00:32,320
+heavy stuff if you want to survive and
+ 
+
+25
+00:00:32,320 --> 00:00:35,270
+heavy stuff if you want to survive and
+maybe even come back so is there a way
+
+26
+00:00:35,270 --> 00:00:35,280
+maybe even come back so is there a way
+ 
+
+27
+00:00:35,280 --> 00:00:39,980
+maybe even come back so is there a way
+to get a space with less Fuel and more
+
+28
+00:00:39,980 --> 00:00:39,990
+
+ 
+
+29
+00:00:39,990 --> 00:00:46,270
+
+[Music]
+
+30
+00:00:46,270 --> 00:00:46,280
+
+ 
+
+31
+00:00:46,280 --> 00:00:47,750
+
+[Music]
+
+32
+00:00:47,750 --> 00:00:47,760
+[Music]
+ 
+
+33
+00:00:47,760 --> 00:00:50,430
+[Music]
+payload a nice thing that solved most of
+
+34
+00:00:50,430 --> 00:00:50,440
+payload a nice thing that solved most of
+ 
+
+35
+00:00:50,440 --> 00:00:52,830
+payload a nice thing that solved most of
+our transport problems on Earth is what
+
+36
+00:00:52,830 --> 00:00:52,840
+our transport problems on Earth is what
+ 
+
+37
+00:00:52,840 --> 00:00:55,029
+our transport problems on Earth is what
+you call infrastructure whether it's
+
+38
+00:00:55,029 --> 00:00:55,039
+you call infrastructure whether it's
+ 
+
+39
+00:00:55,039 --> 00:00:57,549
+you call infrastructure whether it's
+roads for cars ports for ships or rails
+
+40
+00:00:57,549 --> 00:00:57,559
+roads for cars ports for ships or rails
+ 
+
+41
+00:00:57,559 --> 00:01:00,069
+roads for cars ports for ships or rails
+for trains we've made it easier to get
+
+42
+00:01:00,069 --> 00:01:00,079
+for trains we've made it easier to get
+ 
+
+43
+00:01:00,079 --> 00:01:03,270
+for trains we've made it easier to get
+to places we can apply the same solution
+
+44
+00:01:03,270 --> 00:01:03,280
+to places we can apply the same solution
+ 
+
+45
+00:01:03,280 --> 00:01:05,950
+to places we can apply the same solution
+to space travel space infrastructure
+
+46
+00:01:05,950 --> 00:01:05,960
+to space travel space infrastructure
+ 
+
+47
+00:01:05,960 --> 00:01:08,030
+to space travel space infrastructure
+will make getting into orbit and Out To
+
+48
+00:01:08,030 --> 00:01:08,040
+will make getting into orbit and Out To
+ 
+
+49
+00:01:08,040 --> 00:01:11,350
+will make getting into orbit and Out To
+The Moon Mars and Beyond easier and
+
+50
+00:01:11,350 --> 00:01:11,360
+The Moon Mars and Beyond easier and
+ 
+
+51
+00:01:11,360 --> 00:01:15,149
+The Moon Mars and Beyond easier and
+cheaper great but what exactly is space
+
+52
+00:01:15,149 --> 00:01:15,159
+cheaper great but what exactly is space
+ 
+
+53
+00:01:15,159 --> 00:01:17,310
+cheaper great but what exactly is space
+infrastructure unlike an Earth space
+
+54
+00:01:17,310 --> 00:01:17,320
+infrastructure unlike an Earth space
+ 
+
+55
+00:01:17,320 --> 00:01:19,030
+infrastructure unlike an Earth space
+elevator which is currently science
+
+56
+00:01:19,030 --> 00:01:19,040
+elevator which is currently science
+ 
+
+57
+00:01:19,040 --> 00:01:21,910
+elevator which is currently science
+fiction there is a simple yet promising
+
+58
+00:01:21,910 --> 00:01:21,920
+fiction there is a simple yet promising
+ 
+
+59
+00:01:21,920 --> 00:01:24,270
+fiction there is a simple yet promising
+technology that does not require new
+
+60
+00:01:24,270 --> 00:01:24,280
+technology that does not require new
+ 
+
+61
+00:01:24,280 --> 00:01:26,670
+technology that does not require new
+science magic materials or huge
+
+62
+00:01:26,670 --> 00:01:26,680
+science magic materials or huge
+ 
+
+63
+00:01:26,680 --> 00:01:28,670
+science magic materials or huge
+Investments and that has been tested
+
+64
+00:01:28,670 --> 00:01:28,680
+Investments and that has been tested
+ 
+
+65
+00:01:28,680 --> 00:01:31,749
+Investments and that has been tested
+successfully in orbit already a cable
+
+66
+00:01:31,749 --> 00:01:31,759
+successfully in orbit already a cable
+ 
+
+67
+00:01:31,759 --> 00:01:35,030
+successfully in orbit already a cable
+and a weight known as a tether the
+
+68
+00:01:35,030 --> 00:01:35,040
+and a weight known as a tether the
+ 
+
+69
+00:01:35,040 --> 00:01:38,109
+and a weight known as a tether the
+concept is so simple it's surprising
+
+70
+00:01:38,109 --> 00:01:38,119
+concept is so simple it's surprising
+ 
+
+71
+00:01:38,119 --> 00:01:40,149
+concept is so simple it's surprising
+what if we put tethers hundreds or
+
+72
+00:01:40,149 --> 00:01:40,159
+what if we put tethers hundreds or
+ 
+
+73
+00:01:40,159 --> 00:01:42,749
+what if we put tethers hundreds or
+thousands of kilom long into space and
+
+74
+00:01:42,749 --> 00:01:42,759
+thousands of kilom long into space and
+ 
+
+75
+00:01:42,759 --> 00:01:44,870
+thousands of kilom long into space and
+had spacecraft use them as ladders to
+
+76
+00:01:44,870 --> 00:01:44,880
+had spacecraft use them as ladders to
+ 
+
+77
+00:01:44,880 --> 00:01:47,830
+had spacecraft use them as ladders to
+climb to higher altitudes and gain
+
+78
+00:01:47,830 --> 00:01:47,840
+climb to higher altitudes and gain
+ 
+
+79
+00:01:47,840 --> 00:01:50,749
+climb to higher altitudes and gain
+speed this concept is known as the
+
+80
+00:01:50,749 --> 00:01:50,759
+speed this concept is known as the
+ 
+
+81
+00:01:50,759 --> 00:01:53,149
+speed this concept is known as the
+Skyhook it works even better if we make
+
+82
+00:01:53,149 --> 00:01:53,159
+Skyhook it works even better if we make
+ 
+
+83
+00:01:53,159 --> 00:01:55,510
+Skyhook it works even better if we make
+it spin a counterweight holds a long
+
+84
+00:01:55,510 --> 00:01:55,520
+it spin a counterweight holds a long
+ 
+
+85
+00:01:55,520 --> 00:01:57,550
+it spin a counterweight holds a long
+Cable in place while it rotates around a
+
+86
+00:01:57,550 --> 00:01:57,560
+Cable in place while it rotates around a
+ 
+
+87
+00:01:57,560 --> 00:02:00,469
+Cable in place while it rotates around a
+circle a rotating tether slows down its
+
+88
+00:02:00,469 --> 00:02:00,479
+circle a rotating tether slows down its
+ 
+
+89
+00:02:00,479 --> 00:02:02,469
+circle a rotating tether slows down its
+tip relative to the ground at the bottom
+
+90
+00:02:02,469 --> 00:02:02,479
+tip relative to the ground at the bottom
+ 
+
+91
+00:02:02,479 --> 00:02:04,630
+tip relative to the ground at the bottom
+and speeds it up at the top like a
+
+92
+00:02:04,630 --> 00:02:04,640
+and speeds it up at the top like a
+ 
+
+93
+00:02:04,640 --> 00:02:06,510
+and speeds it up at the top like a
+catapult this means that you can
+
+94
+00:02:06,510 --> 00:02:06,520
+catapult this means that you can
+ 
+
+95
+00:02:06,520 --> 00:02:08,389
+catapult this means that you can
+transfer energy from the tether and get
+
+96
+00:02:08,389 --> 00:02:08,399
+transfer energy from the tether and get
+ 
+
+97
+00:02:08,399 --> 00:02:10,630
+transfer energy from the tether and get
+a massive boost when released more or
+
+98
+00:02:10,630 --> 00:02:10,640
+a massive boost when released more or
+ 
+
+99
+00:02:10,640 --> 00:02:12,550
+a massive boost when released more or
+less for free equal to twice the
+
+100
+00:02:12,550 --> 00:02:12,560
+less for free equal to twice the
+ 
+
+101
+00:02:12,560 --> 00:02:15,390
+less for free equal to twice the
+tether's rotation velocity specialized
+
+102
+00:02:15,390 --> 00:02:15,400
+tether's rotation velocity specialized
+ 
+
+103
+00:02:15,400 --> 00:02:17,790
+tether's rotation velocity specialized
+fibers already exist that can survive
+
+104
+00:02:17,790 --> 00:02:17,800
+fibers already exist that can survive
+ 
+
+105
+00:02:17,800 --> 00:02:19,790
+fibers already exist that can survive
+the extraordinary stresses a Skyhook
+
+106
+00:02:19,790 --> 00:02:19,800
+the extraordinary stresses a Skyhook
+ 
+
+107
+00:02:19,800 --> 00:02:22,190
+the extraordinary stresses a Skyhook
+would be faced with to protect against
+
+108
+00:02:22,190 --> 00:02:22,200
+would be faced with to protect against
+ 
+
+109
+00:02:22,200 --> 00:02:24,030
+would be faced with to protect against
+cuts and collisions from debris and
+
+110
+00:02:24,030 --> 00:02:24,040
+cuts and collisions from debris and
+ 
+
+111
+00:02:24,040 --> 00:02:26,150
+cuts and collisions from debris and
+meteorites we can thread our tether into
+
+112
+00:02:26,150 --> 00:02:26,160
+meteorites we can thread our tether into
+ 
+
+113
+00:02:26,160 --> 00:02:29,030
+meteorites we can thread our tether into
+a web of redundant fibers since our
+
+114
+00:02:29,030 --> 00:02:29,040
+a web of redundant fibers since our
+ 
+
+115
+00:02:29,040 --> 00:02:31,030
+a web of redundant fibers since our
+Skyhook would pass over the same spot
+
+116
+00:02:31,030 --> 00:02:31,040
+Skyhook would pass over the same spot
+ 
+
+117
+00:02:31,040 --> 00:02:33,430
+Skyhook would pass over the same spot
+many times a day this would allow small
+
+118
+00:02:33,430 --> 00:02:33,440
+many times a day this would allow small
+ 
+
+119
+00:02:33,440 --> 00:02:36,070
+many times a day this would allow small
+reusable shuttles to catch up with it of
+
+120
+00:02:36,070 --> 00:02:36,080
+reusable shuttles to catch up with it of
+ 
+
+121
+00:02:36,080 --> 00:02:38,869
+reusable shuttles to catch up with it of
+course it's not that easy at its lowest
+
+122
+00:02:38,869 --> 00:02:38,879
+course it's not that easy at its lowest
+ 
+
+123
+00:02:38,879 --> 00:02:40,470
+course it's not that easy at its lowest
+point the tether's tip is dashing
+
+124
+00:02:40,470 --> 00:02:40,480
+point the tether's tip is dashing
+ 
+
+125
+00:02:40,480 --> 00:02:43,030
+point the tether's tip is dashing
+through the atmosphere at around 12,000
+
+126
+00:02:43,030 --> 00:02:43,040
+through the atmosphere at around 12,000
+ 
+
+127
+00:02:43,040 --> 00:02:45,430
+through the atmosphere at around 12,000
+kmph because of Earth's atmosphere we
+
+128
+00:02:45,430 --> 00:02:45,440
+kmph because of Earth's atmosphere we
+ 
+
+129
+00:02:45,440 --> 00:02:47,470
+kmph because of Earth's atmosphere we
+can't lower the sky hook too much or it
+
+130
+00:02:47,470 --> 00:02:47,480
+can't lower the sky hook too much or it
+ 
+
+131
+00:02:47,480 --> 00:02:50,229
+can't lower the sky hook too much or it
+will get too hot from Air friction so it
+
+132
+00:02:50,229 --> 00:02:50,239
+will get too hot from Air friction so it
+ 
+
+133
+00:02:50,239 --> 00:02:53,390
+will get too hot from Air friction so it
+will dip to a height of 80 to 150 km and
+
+134
+00:02:53,390 --> 00:02:53,400
+will dip to a height of 80 to 150 km and
+ 
+
+135
+00:02:53,400 --> 00:02:56,110
+will dip to a height of 80 to 150 km and
+no lower to match this we'll need
+
+136
+00:02:56,110 --> 00:02:56,120
+no lower to match this we'll need
+ 
+
+137
+00:02:56,120 --> 00:02:57,949
+no lower to match this we'll need
+specialized spacecraft that can get to
+
+138
+00:02:57,949 --> 00:02:57,959
+specialized spacecraft that can get to
+ 
+
+139
+00:02:57,959 --> 00:03:00,430
+specialized spacecraft that can get to
+the tether while this isn't n exactly
+
+140
+00:03:00,430 --> 00:03:00,440
+the tether while this isn't n exactly
+ 
+
+141
+00:03:00,440 --> 00:03:02,190
+the tether while this isn't n exactly
+easy it's still much cheaper than
+
+142
+00:03:02,190 --> 00:03:02,200
+easy it's still much cheaper than
+ 
+
+143
+00:03:02,200 --> 00:03:04,509
+easy it's still much cheaper than
+getting a big Tin Can filled with rocket
+
+144
+00:03:04,509 --> 00:03:04,519
+getting a big Tin Can filled with rocket
+ 
+
+145
+00:03:04,519 --> 00:03:08,030
+getting a big Tin Can filled with rocket
+fuel to go 40,000 km an hour catching
+
+146
+00:03:08,030 --> 00:03:08,040
+fuel to go 40,000 km an hour catching
+ 
+
+147
+00:03:08,040 --> 00:03:10,350
+fuel to go 40,000 km an hour catching
+the tip will be a challenge too there's
+
+148
+00:03:10,350 --> 00:03:10,360
+the tip will be a challenge too there's
+ 
+
+149
+00:03:10,360 --> 00:03:12,830
+the tip will be a challenge too there's
+only a short time window of 60 to 90
+
+150
+00:03:12,830 --> 00:03:12,840
+only a short time window of 60 to 90
+ 
+
+151
+00:03:12,840 --> 00:03:15,190
+only a short time window of 60 to 90
+seconds to find a tiny thing in the sky
+
+152
+00:03:15,190 --> 00:03:15,200
+seconds to find a tiny thing in the sky
+ 
+
+153
+00:03:15,200 --> 00:03:18,670
+seconds to find a tiny thing in the sky
+moving at Mark 12 to make this easier
+
+154
+00:03:18,670 --> 00:03:18,680
+moving at Mark 12 to make this easier
+ 
+
+155
+00:03:18,680 --> 00:03:20,190
+moving at Mark 12 to make this easier
+the tip could have a sort of fishing
+
+156
+00:03:20,190 --> 00:03:20,200
+the tip could have a sort of fishing
+ 
+
+157
+00:03:20,200 --> 00:03:22,990
+the tip could have a sort of fishing
+line a kilm long with a navigation drone
+
+158
+00:03:22,990 --> 00:03:23,000
+line a kilm long with a navigation drone
+ 
+
+159
+00:03:23,000 --> 00:03:25,589
+line a kilm long with a navigation drone
+that helps the spacecraft connect
+
+160
+00:03:25,589 --> 00:03:25,599
+that helps the spacecraft connect
+ 
+
+161
+00:03:25,599 --> 00:03:27,470
+that helps the spacecraft connect
+another challenge is keeping our Skyhook
+
+162
+00:03:27,470 --> 00:03:27,480
+another challenge is keeping our Skyhook
+ 
+
+163
+00:03:27,480 --> 00:03:29,949
+another challenge is keeping our Skyhook
+in orbit as more and more ships patch
+
+164
+00:03:29,949 --> 00:03:29,959
+in orbit as more and more ships patch
+ 
+
+165
+00:03:29,959 --> 00:03:31,949
+in orbit as more and more ships patch
+onto it and pull themselves up they use
+
+166
+00:03:31,949 --> 00:03:31,959
+onto it and pull themselves up they use
+ 
+
+167
+00:03:31,959 --> 00:03:34,509
+onto it and pull themselves up they use
+up the momentum that keeps it in place
+
+168
+00:03:34,509 --> 00:03:34,519
+up the momentum that keeps it in place
+ 
+
+169
+00:03:34,519 --> 00:03:36,589
+up the momentum that keeps it in place
+if we don't do anything it will slow
+
+170
+00:03:36,589 --> 00:03:36,599
+if we don't do anything it will slow
+ 
+
+171
+00:03:36,599 --> 00:03:38,670
+if we don't do anything it will slow
+down and crash into the
+
+172
+00:03:38,670 --> 00:03:38,680
+down and crash into the
+ 
+
+173
+00:03:38,680 --> 00:03:41,149
+down and crash into the
+atmosphere and here we can cheat the
+
+174
+00:03:41,149 --> 00:03:41,159
+atmosphere and here we can cheat the
+ 
+
+175
+00:03:41,159 --> 00:03:44,470
+atmosphere and here we can cheat the
+universe a bit the Skyhook is a battery
+
+176
+00:03:44,470 --> 00:03:44,480
+universe a bit the Skyhook is a battery
+ 
+
+177
+00:03:44,480 --> 00:03:46,949
+universe a bit the Skyhook is a battery
+of orbital energy it's possible to
+
+178
+00:03:46,949 --> 00:03:46,959
+of orbital energy it's possible to
+ 
+
+179
+00:03:46,959 --> 00:03:49,030
+of orbital energy it's possible to
+balance the payloads coming in and being
+
+180
+00:03:49,030 --> 00:03:49,040
+balance the payloads coming in and being
+ 
+
+181
+00:03:49,040 --> 00:03:52,069
+balance the payloads coming in and being
+sent off arriving ships bringing humans
+
+182
+00:03:52,069 --> 00:03:52,079
+sent off arriving ships bringing humans
+ 
+
+183
+00:03:52,079 --> 00:03:54,350
+sent off arriving ships bringing humans
+and materials home to Earth add energy
+
+184
+00:03:54,350 --> 00:03:54,360
+and materials home to Earth add energy
+ 
+
+185
+00:03:54,360 --> 00:03:56,270
+and materials home to Earth add energy
+to the tether which it can give to other
+
+186
+00:03:56,270 --> 00:03:56,280
+to the tether which it can give to other
+ 
+
+187
+00:03:56,280 --> 00:03:59,030
+to the tether which it can give to other
+ships departing into space this way the
+
+188
+00:03:59,030 --> 00:03:59,040
+ships departing into space this way the
+ 
+
+189
+00:03:59,040 --> 00:04:01,390
+ships departing into space this way the
+tether doesn't lose any energy the more
+
+190
+00:04:01,390 --> 00:04:01,400
+tether doesn't lose any energy the more
+ 
+
+191
+00:04:01,400 --> 00:04:04,589
+tether doesn't lose any energy the more
+we use it the cheaper it gets if we're
+
+192
+00:04:04,589 --> 00:04:04,599
+we use it the cheaper it gets if we're
+ 
+
+193
+00:04:04,599 --> 00:04:06,589
+we use it the cheaper it gets if we're
+still losing energy with each boost we
+
+194
+00:04:06,589 --> 00:04:06,599
+still losing energy with each boost we
+ 
+
+195
+00:04:06,599 --> 00:04:08,509
+still losing energy with each boost we
+can recover it with small electric or
+
+196
+00:04:08,509 --> 00:04:08,519
+can recover it with small electric or
+ 
+
+197
+00:04:08,519 --> 00:04:10,509
+can recover it with small electric or
+chemical engines that regularly correct
+
+198
+00:04:10,509 --> 00:04:10,519
+chemical engines that regularly correct
+ 
+
+199
+00:04:10,519 --> 00:04:13,069
+chemical engines that regularly correct
+the tether's position a set of tethers
+
+200
+00:04:13,069 --> 00:04:13,079
+the tether's position a set of tethers
+ 
+
+201
+00:04:13,079 --> 00:04:14,990
+the tether's position a set of tethers
+one around Earth and one around Mars
+
+202
+00:04:14,990 --> 00:04:15,000
+one around Earth and one around Mars
+ 
+
+203
+00:04:15,000 --> 00:04:16,550
+one around Earth and one around Mars
+could make trips between the planets
+
+204
+00:04:16,550 --> 00:04:16,560
+could make trips between the planets
+ 
+
+205
+00:04:16,560 --> 00:04:18,870
+could make trips between the planets
+fast straightforward and low cost
+
+206
+00:04:18,870 --> 00:04:18,880
+fast straightforward and low cost
+ 
+
+207
+00:04:18,880 --> 00:04:21,469
+fast straightforward and low cost
+compared to Rockets the Earth tether
+
+208
+00:04:21,469 --> 00:04:21,479
+compared to Rockets the Earth tether
+ 
+
+209
+00:04:21,479 --> 00:04:23,150
+compared to Rockets the Earth tether
+would sit in low earth orbit to grab
+
+210
+00:04:23,150 --> 00:04:23,160
+would sit in low earth orbit to grab
+ 
+
+211
+00:04:23,160 --> 00:04:24,749
+would sit in low earth orbit to grab
+people and payloads and fling them off
+
+212
+00:04:24,749 --> 00:04:24,759
+people and payloads and fling them off
+ 
+
+213
+00:04:24,759 --> 00:04:27,670
+people and payloads and fling them off
+to Mars the Mars tether catches them and
+
+214
+00:04:27,670 --> 00:04:27,680
+to Mars the Mars tether catches them and
+ 
+
+215
+00:04:27,680 --> 00:04:29,430
+to Mars the Mars tether catches them and
+slows them down for a landing on the
+
+216
+00:04:29,430 --> 00:04:29,440
+slows them down for a landing on the
+ 
+
+217
+00:04:29,440 --> 00:04:31,990
+slows them down for a landing on the
+surface Sur in the opposite direction
+
+218
+00:04:31,990 --> 00:04:32,000
+surface Sur in the opposite direction
+ 
+
+219
+00:04:32,000 --> 00:04:33,390
+surface Sur in the opposite direction
+the tether could pick up a vehicle
+
+220
+00:04:33,390 --> 00:04:33,400
+the tether could pick up a vehicle
+ 
+
+221
+00:04:33,400 --> 00:04:35,310
+the tether could pick up a vehicle
+traveling through Mars's thin atmosphere
+
+222
+00:04:35,310 --> 00:04:35,320
+traveling through Mars's thin atmosphere
+ 
+
+223
+00:04:35,320 --> 00:04:38,469
+traveling through Mars's thin atmosphere
+at only about 1,000 km hour not much
+
+224
+00:04:38,469 --> 00:04:38,479
+at only about 1,000 km hour not much
+ 
+
+225
+00:04:38,479 --> 00:04:40,590
+at only about 1,000 km hour not much
+faster than our airliners on Earth and
+
+226
+00:04:40,590 --> 00:04:40,600
+faster than our airliners on Earth and
+ 
+
+227
+00:04:40,600 --> 00:04:42,629
+faster than our airliners on Earth and
+fling it back to Earth to be caught and
+
+228
+00:04:42,629 --> 00:04:42,639
+fling it back to Earth to be caught and
+ 
+
+229
+00:04:42,639 --> 00:04:45,350
+fling it back to Earth to be caught and
+lowered down the tethers could shorten
+
+230
+00:04:45,350 --> 00:04:45,360
+lowered down the tethers could shorten
+ 
+
+231
+00:04:45,360 --> 00:04:47,749
+lowered down the tethers could shorten
+trips between both planets from 9 months
+
+232
+00:04:47,749 --> 00:04:47,759
+trips between both planets from 9 months
+ 
+
+233
+00:04:47,759 --> 00:04:50,230
+trips between both planets from 9 months
+down to 5 or even three and reduce the
+
+234
+00:04:50,230 --> 00:04:50,240
+down to 5 or even three and reduce the
+ 
+
+235
+00:04:50,240 --> 00:04:52,270
+down to 5 or even three and reduce the
+scale of the Rockets required by between
+
+236
+00:04:52,270 --> 00:04:52,280
+scale of the Rockets required by between
+ 
+
+237
+00:04:52,280 --> 00:04:54,469
+scale of the Rockets required by between
+84 and
+
+238
+00:04:54,469 --> 00:04:54,479
+84 and
+ 
+
+239
+00:04:54,479 --> 00:04:57,189
+84 and
+96% even better people may be able to
+
+240
+00:04:57,189 --> 00:04:57,199
+96% even better people may be able to
+ 
+
+241
+00:04:57,199 --> 00:04:59,350
+96% even better people may be able to
+travel in relative luxury as we could
+
+242
+00:04:59,350 --> 00:04:59,360
+travel in relative luxury as we could
+ 
+
+243
+00:04:59,360 --> 00:05:01,870
+travel in relative luxury as we could
+afford to invest in passenger Comfort
+
+244
+00:05:01,870 --> 00:05:01,880
+afford to invest in passenger Comfort
+ 
+
+245
+00:05:01,880 --> 00:05:04,150
+afford to invest in passenger Comfort
+tether travel would be first class seats
+
+246
+00:05:04,150 --> 00:05:04,160
+tether travel would be first class seats
+ 
+
+247
+00:05:04,160 --> 00:05:07,070
+tether travel would be first class seats
+to Mars together tethers around Earth
+
+248
+00:05:07,070 --> 00:05:07,080
+to Mars together tethers around Earth
+ 
+
+249
+00:05:07,080 --> 00:05:08,909
+to Mars together tethers around Earth
+and Mars could provide the rapid and
+
+250
+00:05:08,909 --> 00:05:08,919
+and Mars could provide the rapid and
+ 
+
+251
+00:05:08,919 --> 00:05:10,950
+and Mars could provide the rapid and
+cost-efficient transportation backbone
+
+252
+00:05:10,950 --> 00:05:10,960
+cost-efficient transportation backbone
+ 
+
+253
+00:05:10,960 --> 00:05:13,749
+cost-efficient transportation backbone
+that would make space travel affordable
+
+254
+00:05:13,749 --> 00:05:13,759
+that would make space travel affordable
+ 
+
+255
+00:05:13,759 --> 00:05:16,189
+that would make space travel affordable
+but let's go further starting from low
+
+256
+00:05:16,189 --> 00:05:16,199
+but let's go further starting from low
+ 
+
+257
+00:05:16,199 --> 00:05:18,350
+but let's go further starting from low
+Mars orbit a tether could boost ships to
+
+258
+00:05:18,350 --> 00:05:18,360
+Mars orbit a tether could boost ships to
+ 
+
+259
+00:05:18,360 --> 00:05:20,990
+Mars orbit a tether could boost ships to
+the asteroid belt the first craft sent
+
+260
+00:05:20,990 --> 00:05:21,000
+the asteroid belt the first craft sent
+ 
+
+261
+00:05:21,000 --> 00:05:22,790
+the asteroid belt the first craft sent
+to a new asteroid would need Rockets to
+
+262
+00:05:22,790 --> 00:05:22,800
+to a new asteroid would need Rockets to
+ 
+
+263
+00:05:22,800 --> 00:05:25,350
+to a new asteroid would need Rockets to
+slow down at its destination subsequent
+
+264
+00:05:25,350 --> 00:05:25,360
+slow down at its destination subsequent
+ 
+
+265
+00:05:25,360 --> 00:05:27,230
+slow down at its destination subsequent
+arrivals might find a tether waiting to
+
+266
+00:05:27,230 --> 00:05:27,240
+arrivals might find a tether waiting to
+ 
+
+267
+00:05:27,240 --> 00:05:30,110
+arrivals might find a tether waiting to
+catch them and send them back for free
+
+268
+00:05:30,110 --> 00:05:30,120
+catch them and send them back for free
+ 
+
+269
+00:05:30,120 --> 00:05:32,550
+catch them and send them back for free
+getting to asteroids cheaply is a major
+
+270
+00:05:32,550 --> 00:05:32,560
+getting to asteroids cheaply is a major
+ 
+
+271
+00:05:32,560 --> 00:05:34,510
+getting to asteroids cheaply is a major
+factor in opening up the resources of
+
+272
+00:05:34,510 --> 00:05:34,520
+factor in opening up the resources of
+ 
+
+273
+00:05:34,520 --> 00:05:36,909
+factor in opening up the resources of
+the solar system precious metals and
+
+274
+00:05:36,909 --> 00:05:36,919
+the solar system precious metals and
+ 
+
+275
+00:05:36,919 --> 00:05:38,590
+the solar system precious metals and
+valuable minerals could be delivered to
+
+276
+00:05:38,590 --> 00:05:38,600
+valuable minerals could be delivered to
+ 
+
+277
+00:05:38,600 --> 00:05:40,629
+valuable minerals could be delivered to
+Mars Just weeks after they were cut out
+
+278
+00:05:40,629 --> 00:05:40,639
+Mars Just weeks after they were cut out
+ 
+
+279
+00:05:40,639 --> 00:05:42,950
+Mars Just weeks after they were cut out
+of their asteroid they would be the
+
+280
+00:05:42,950 --> 00:05:42,960
+of their asteroid they would be the
+ 
+
+281
+00:05:42,960 --> 00:05:44,469
+of their asteroid they would be the
+perfect building blocks for our
+
+282
+00:05:44,469 --> 00:05:44,479
+perfect building blocks for our
+ 
+
+283
+00:05:44,479 --> 00:05:45,790
+perfect building blocks for our
+interplanetary
+
+284
+00:05:45,790 --> 00:05:45,800
+interplanetary
+ 
+
+285
+00:05:45,800 --> 00:05:48,790
+interplanetary
+civilization but why stop here Mars
+
+286
+00:05:48,790 --> 00:05:48,800
+civilization but why stop here Mars
+ 
+
+287
+00:05:48,800 --> 00:05:51,590
+civilization but why stop here Mars
+moons are very convenient no other moons
+
+288
+00:05:51,590 --> 00:05:51,600
+moons are very convenient no other moons
+ 
+
+289
+00:05:51,600 --> 00:05:53,510
+moons are very convenient no other moons
+in the solar system orbit that close to
+
+290
+00:05:53,510 --> 00:05:53,520
+in the solar system orbit that close to
+ 
+
+291
+00:05:53,520 --> 00:05:56,670
+in the solar system orbit that close to
+their Planet Phobos is so heavy that we
+
+292
+00:05:56,670 --> 00:05:56,680
+their Planet Phobos is so heavy that we
+ 
+
+293
+00:05:56,680 --> 00:05:58,350
+their Planet Phobos is so heavy that we
+don't need to worry about slowing it
+
+294
+00:05:58,350 --> 00:05:58,360
+don't need to worry about slowing it
+ 
+
+295
+00:05:58,360 --> 00:06:00,590
+don't need to worry about slowing it
+down making it the perfect attachment
+
+296
+00:06:00,590 --> 00:06:00,600
+down making it the perfect attachment
+ 
+
+297
+00:06:00,600 --> 00:06:02,990
+down making it the perfect attachment
+point for super tethers just under 6,000
+
+298
+00:06:02,990 --> 00:06:03,000
+point for super tethers just under 6,000
+ 
+
+299
+00:06:03,000 --> 00:06:05,950
+point for super tethers just under 6,000
+km long the lower tip would fly just
+
+300
+00:06:05,950 --> 00:06:05,960
+km long the lower tip would fly just
+ 
+
+301
+00:06:05,960 --> 00:06:07,870
+km long the lower tip would fly just
+over the surface of Mars and be very
+
+302
+00:06:07,870 --> 00:06:07,880
+over the surface of Mars and be very
+ 
+
+303
+00:06:07,880 --> 00:06:10,629
+over the surface of Mars and be very
+easy to catch the upper tip can fling
+
+304
+00:06:10,629 --> 00:06:10,639
+easy to catch the upper tip can fling
+ 
+
+305
+00:06:10,639 --> 00:06:13,589
+easy to catch the upper tip can fling
+ships all the way to Jupiter and Saturn
+
+306
+00:06:13,589 --> 00:06:13,599
+ships all the way to Jupiter and Saturn
+ 
+
+307
+00:06:13,599 --> 00:06:15,670
+ships all the way to Jupiter and Saturn
+the same super tether can also bring the
+
+308
+00:06:15,670 --> 00:06:15,680
+the same super tether can also bring the
+ 
+
+309
+00:06:15,680 --> 00:06:17,309
+the same super tether can also bring the
+inner solar system
+
+310
+00:06:17,309 --> 00:06:17,319
+inner solar system
+ 
+
+311
+00:06:17,319 --> 00:06:20,029
+inner solar system
+closer Venus and Mercury are a single
+
+312
+00:06:20,029 --> 00:06:20,039
+closer Venus and Mercury are a single
+ 
+
+313
+00:06:20,039 --> 00:06:23,309
+closer Venus and Mercury are a single
+swing away unlike Mars they're bursting
+
+314
+00:06:23,309 --> 00:06:23,319
+swing away unlike Mars they're bursting
+ 
+
+315
+00:06:23,319 --> 00:06:25,790
+swing away unlike Mars they're bursting
+with solar energy and are rich in
+
+316
+00:06:25,790 --> 00:06:25,800
+with solar energy and are rich in
+ 
+
+317
+00:06:25,800 --> 00:06:28,350
+with solar energy and are rich in
+minerals in the long term Nothing is
+
+318
+00:06:28,350 --> 00:06:28,360
+minerals in the long term Nothing is
+ 
+
+319
+00:06:28,360 --> 00:06:30,390
+minerals in the long term Nothing is
+Stopping Humanity from constructing a
+
+320
+00:06:30,390 --> 00:06:30,400
+Stopping Humanity from constructing a
+ 
+
+321
+00:06:30,400 --> 00:06:32,350
+Stopping Humanity from constructing a
+zero propellant transport Network for
+
+322
+00:06:32,350 --> 00:06:32,360
+zero propellant transport Network for
+ 
+
+323
+00:06:32,360 --> 00:06:34,309
+zero propellant transport Network for
+the terrestrial planets centered on the
+
+324
+00:06:34,309 --> 00:06:34,319
+the terrestrial planets centered on the
+ 
+
+325
+00:06:34,319 --> 00:06:37,550
+the terrestrial planets centered on the
+marsh and moons tethers are a comparably
+
+326
+00:06:37,550 --> 00:06:37,560
+marsh and moons tethers are a comparably
+ 
+
+327
+00:06:37,560 --> 00:06:39,990
+marsh and moons tethers are a comparably
+cheap and sustainable solution to making
+
+328
+00:06:39,990 --> 00:06:40,000
+cheap and sustainable solution to making
+ 
+
+329
+00:06:40,000 --> 00:06:42,309
+cheap and sustainable solution to making
+space travel affordable and the rest of
+
+330
+00:06:42,309 --> 00:06:42,319
+space travel affordable and the rest of
+ 
+
+331
+00:06:42,319 --> 00:06:44,309
+space travel affordable and the rest of
+the soda system accessible for
+
+332
+00:06:44,309 --> 00:06:44,319
+the soda system accessible for
+ 
+
+333
+00:06:44,319 --> 00:06:47,550
+the soda system accessible for
+exploitation and exploration considering
+
+334
+00:06:47,550 --> 00:06:47,560
+exploitation and exploration considering
+ 
+
+335
+00:06:47,560 --> 00:06:49,029
+exploitation and exploration considering
+that we have the technology to build
+
+336
+00:06:49,029 --> 00:06:49,039
+that we have the technology to build
+ 
+
+337
+00:06:49,039 --> 00:06:51,790
+that we have the technology to build
+them today there's really no good excuse
+
+338
+00:06:51,790 --> 00:06:51,800
+them today there's really no good excuse
+ 
+
+339
+00:06:51,800 --> 00:06:54,510
+them today there's really no good excuse
+to wait any longer parts of the solar
+
+340
+00:06:54,510 --> 00:06:54,520
+to wait any longer parts of the solar
+ 
+
+341
+00:06:54,520 --> 00:06:57,070
+to wait any longer parts of the solar
+system are far away but they could be
+
+342
+00:06:57,070 --> 00:06:57,080
+system are far away but they could be
+ 
+
+343
+00:06:57,080 --> 00:06:59,629
+system are far away but they could be
+very close
+
+344
+00:06:59,629 --> 00:06:59,639
+very close
+ 
+
+345
+00:06:59,639 --> 00:07:01,800
+very close
+oh
+

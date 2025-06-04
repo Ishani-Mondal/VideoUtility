@@ -1,0 +1,275 @@
+1
+00:00:00,120 --> 00:00:02,990
+
+AI can literally lend you a hand but
+
+2
+00:00:02,990 --> 00:00:03,000
+AI can literally lend you a hand but
+ 
+
+3
+00:00:03,000 --> 00:00:05,349
+AI can literally lend you a hand but
+hands are complicated if your hand were
+
+4
+00:00:05,349 --> 00:00:05,359
+hands are complicated if your hand were
+ 
+
+5
+00:00:05,359 --> 00:00:07,590
+hands are complicated if your hand were
+a video game character you'd need 27
+
+6
+00:00:07,590 --> 00:00:07,600
+a video game character you'd need 27
+ 
+
+7
+00:00:07,600 --> 00:00:09,549
+a video game character you'd need 27
+buttons to control it millions of
+
+8
+00:00:09,549 --> 00:00:09,559
+buttons to control it millions of
+ 
+
+9
+00:00:09,559 --> 00:00:11,030
+buttons to control it millions of
+possible button combinations need to be
+
+10
+00:00:11,030 --> 00:00:11,040
+possible button combinations need to be
+ 
+
+11
+00:00:11,040 --> 00:00:12,749
+possible button combinations need to be
+translated to a robotic hand in real
+
+12
+00:00:12,749 --> 00:00:12,759
+translated to a robotic hand in real
+ 
+
+13
+00:00:12,759 --> 00:00:14,990
+translated to a robotic hand in real
+time with as little delay as possible so
+
+14
+00:00:14,990 --> 00:00:15,000
+time with as little delay as possible so
+ 
+
+15
+00:00:15,000 --> 00:00:16,990
+time with as little delay as possible so
+for the past 60 years researchers have
+
+16
+00:00:16,990 --> 00:00:17,000
+for the past 60 years researchers have
+ 
+
+17
+00:00:17,000 --> 00:00:18,269
+for the past 60 years researchers have
+basically been working through one
+
+18
+00:00:18,269 --> 00:00:18,279
+basically been working through one
+ 
+
+19
+00:00:18,279 --> 00:00:20,509
+basically been working through one
+combination at a time AI comes in handy
+
+20
+00:00:20,509 --> 00:00:20,519
+combination at a time AI comes in handy
+ 
+
+21
+00:00:20,519 --> 00:00:22,550
+combination at a time AI comes in handy
+by speeding up the process learning the
+
+22
+00:00:22,550 --> 00:00:22,560
+by speeding up the process learning the
+ 
+
+23
+00:00:22,560 --> 00:00:23,990
+by speeding up the process learning the
+move set from a healthy hand and
+
+24
+00:00:23,990 --> 00:00:24,000
+move set from a healthy hand and
+ 
+
+25
+00:00:24,000 --> 00:00:25,830
+move set from a healthy hand and
+adapting it to a robotic hand is much
+
+26
+00:00:25,830 --> 00:00:25,840
+adapting it to a robotic hand is much
+ 
+
+27
+00:00:25,840 --> 00:00:28,630
+adapting it to a robotic hand is much
+faster now so how does it work what you
+
+28
+00:00:28,630 --> 00:00:28,640
+faster now so how does it work what you
+ 
+
+29
+00:00:28,640 --> 00:00:30,390
+faster now so how does it work what you
+need is one healthy hand to wear a data
+
+30
+00:00:30,390 --> 00:00:30,400
+need is one healthy hand to wear a data
+ 
+
+31
+00:00:30,400 --> 00:00:32,150
+need is one healthy hand to wear a data
+glove and a microchip riddled with a
+
+32
+00:00:32,150 --> 00:00:32,160
+glove and a microchip riddled with a
+ 
+
+33
+00:00:32,160 --> 00:00:33,750
+glove and a microchip riddled with a
+bunch of electrical sensors in your
+
+34
+00:00:33,750 --> 00:00:33,760
+bunch of electrical sensors in your
+ 
+
+35
+00:00:33,760 --> 00:00:35,790
+bunch of electrical sensors in your
+residual limb many of the movements of
+
+36
+00:00:35,790 --> 00:00:35,800
+residual limb many of the movements of
+ 
+
+37
+00:00:35,800 --> 00:00:37,069
+residual limb many of the movements of
+your hand are made in tandem with
+
+38
+00:00:37,069 --> 00:00:37,079
+your hand are made in tandem with
+ 
+
+39
+00:00:37,079 --> 00:00:39,110
+your hand are made in tandem with
+muscles in the rest of your arm when you
+
+40
+00:00:39,110 --> 00:00:39,120
+muscles in the rest of your arm when you
+ 
+
+41
+00:00:39,120 --> 00:00:40,670
+muscles in the rest of your arm when you
+try to move your missing hand the
+
+42
+00:00:40,670 --> 00:00:40,680
+try to move your missing hand the
+ 
+
+43
+00:00:40,680 --> 00:00:42,590
+try to move your missing hand the
+sensors on the chip read these movements
+
+44
+00:00:42,590 --> 00:00:42,600
+sensors on the chip read these movements
+ 
+
+45
+00:00:42,600 --> 00:00:43,950
+sensors on the chip read these movements
+and send them to a machine learning
+
+46
+00:00:43,950 --> 00:00:43,960
+and send them to a machine learning
+ 
+
+47
+00:00:43,960 --> 00:00:45,950
+and send them to a machine learning
+algorithm after an initial training
+
+48
+00:00:45,950 --> 00:00:45,960
+algorithm after an initial training
+ 
+
+49
+00:00:45,960 --> 00:00:47,950
+algorithm after an initial training
+phase it can translate these signals
+
+50
+00:00:47,950 --> 00:00:47,960
+phase it can translate these signals
+ 
+
+51
+00:00:47,960 --> 00:00:49,910
+phase it can translate these signals
+into moving a robotic hand that's
+
+52
+00:00:49,910 --> 00:00:49,920
+into moving a robotic hand that's
+ 
+
+53
+00:00:49,920 --> 00:00:52,549
+into moving a robotic hand that's
+connected via Bluetooth and just like
+
+54
+00:00:52,549 --> 00:00:52,559
+connected via Bluetooth and just like
+ 
+
+55
+00:00:52,559 --> 00:00:55,120
+connected via Bluetooth and just like
+that
+
