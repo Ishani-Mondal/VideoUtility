@@ -1,0 +1,1835 @@
+1
+00:00:00,199 --> 00:00:02,669
+
+for most of our history human technology
+
+2
+00:00:02,669 --> 00:00:02,679
+for most of our history human technology
+ 
+
+3
+00:00:02,679 --> 00:00:05,829
+for most of our history human technology
+consisted of our brains fire and sharp
+
+4
+00:00:05,829 --> 00:00:05,839
+consisted of our brains fire and sharp
+ 
+
+5
+00:00:05,839 --> 00:00:08,230
+consisted of our brains fire and sharp
+sticks while fire and sharp sticks
+
+6
+00:00:08,230 --> 00:00:08,240
+sticks while fire and sharp sticks
+ 
+
+7
+00:00:08,240 --> 00:00:10,430
+sticks while fire and sharp sticks
+became power plants and nuclear weapons
+
+8
+00:00:10,430 --> 00:00:10,440
+became power plants and nuclear weapons
+ 
+
+9
+00:00:10,440 --> 00:00:12,310
+became power plants and nuclear weapons
+the biggest upgrade has happened to our
+
+10
+00:00:12,310 --> 00:00:12,320
+the biggest upgrade has happened to our
+ 
+
+11
+00:00:12,320 --> 00:00:15,430
+the biggest upgrade has happened to our
+brains since the 1960s the power of our
+
+12
+00:00:15,430 --> 00:00:15,440
+brains since the 1960s the power of our
+ 
+
+13
+00:00:15,440 --> 00:00:17,029
+brains since the 1960s the power of our
+brain machines has kept growing
+
+14
+00:00:17,029 --> 00:00:17,039
+brain machines has kept growing
+ 
+
+15
+00:00:17,039 --> 00:00:19,269
+brain machines has kept growing
+exponentially allowing computers to get
+
+16
+00:00:19,269 --> 00:00:19,279
+exponentially allowing computers to get
+ 
+
+17
+00:00:19,279 --> 00:00:21,630
+exponentially allowing computers to get
+smaller and more powerful at the same
+
+18
+00:00:21,630 --> 00:00:21,640
+smaller and more powerful at the same
+ 
+
+19
+00:00:21,640 --> 00:00:24,509
+smaller and more powerful at the same
+time but this process is about to meet
+
+20
+00:00:24,509 --> 00:00:24,519
+time but this process is about to meet
+ 
+
+21
+00:00:24,519 --> 00:00:27,109
+time but this process is about to meet
+its physical limits computer parts are
+
+22
+00:00:27,109 --> 00:00:27,119
+its physical limits computer parts are
+ 
+
+23
+00:00:27,119 --> 00:00:29,790
+its physical limits computer parts are
+approaching the size of an atom to
+
+24
+00:00:29,790 --> 00:00:29,800
+approaching the size of an atom to
+ 
+
+25
+00:00:29,800 --> 00:00:31,509
+approaching the size of an atom to
+understand why this is a problem we have
+
+26
+00:00:31,509 --> 00:00:31,519
+understand why this is a problem we have
+ 
+
+27
+00:00:31,519 --> 00:00:33,230
+understand why this is a problem we have
+to clear up some
+
+28
+00:00:33,230 --> 00:00:33,240
+to clear up some
+ 
+
+29
+00:00:33,240 --> 00:00:38,790
+to clear up some
+[Music]
+
+30
+00:00:38,790 --> 00:00:38,800
+
+ 
+
+31
+00:00:38,800 --> 00:00:41,510
+
+Basics a computer is made up of very
+
+32
+00:00:41,510 --> 00:00:41,520
+Basics a computer is made up of very
+ 
+
+33
+00:00:41,520 --> 00:00:43,630
+Basics a computer is made up of very
+simple components doing very simple
+
+34
+00:00:43,630 --> 00:00:43,640
+simple components doing very simple
+ 
+
+35
+00:00:43,640 --> 00:00:46,270
+simple components doing very simple
+things representing data the means of
+
+36
+00:00:46,270 --> 00:00:46,280
+things representing data the means of
+ 
+
+37
+00:00:46,280 --> 00:00:49,150
+things representing data the means of
+processing it and control mechanisms
+
+38
+00:00:49,150 --> 00:00:49,160
+processing it and control mechanisms
+ 
+
+39
+00:00:49,160 --> 00:00:51,150
+processing it and control mechanisms
+computer chips contain modules which
+
+40
+00:00:51,150 --> 00:00:51,160
+computer chips contain modules which
+ 
+
+41
+00:00:51,160 --> 00:00:53,590
+computer chips contain modules which
+contain logic gates which contain
+
+42
+00:00:53,590 --> 00:00:53,600
+contain logic gates which contain
+ 
+
+43
+00:00:53,600 --> 00:00:56,389
+contain logic gates which contain
+transistors a transistor is the simplest
+
+44
+00:00:56,389 --> 00:00:56,399
+transistors a transistor is the simplest
+ 
+
+45
+00:00:56,399 --> 00:00:58,790
+transistors a transistor is the simplest
+form of a data processor in computers
+
+46
+00:00:58,790 --> 00:00:58,800
+form of a data processor in computers
+ 
+
+47
+00:00:58,800 --> 00:01:01,029
+form of a data processor in computers
+basically a switch that can either block
+
+48
+00:01:01,029 --> 00:01:01,039
+basically a switch that can either block
+ 
+
+49
+00:01:01,039 --> 00:01:03,109
+basically a switch that can either block
+or open the way for information coming
+
+50
+00:01:03,109 --> 00:01:03,119
+or open the way for information coming
+ 
+
+51
+00:01:03,119 --> 00:01:05,670
+or open the way for information coming
+through this information is made up of
+
+52
+00:01:05,670 --> 00:01:05,680
+through this information is made up of
+ 
+
+53
+00:01:05,680 --> 00:01:08,270
+through this information is made up of
+bits which can be set to either zero or
+
+54
+00:01:08,270 --> 00:01:08,280
+bits which can be set to either zero or
+ 
+
+55
+00:01:08,280 --> 00:01:10,830
+bits which can be set to either zero or
+one combinations of several bits are
+
+56
+00:01:10,830 --> 00:01:10,840
+one combinations of several bits are
+ 
+
+57
+00:01:10,840 --> 00:01:12,590
+one combinations of several bits are
+used to represent more complex
+
+58
+00:01:12,590 --> 00:01:12,600
+used to represent more complex
+ 
+
+59
+00:01:12,600 --> 00:01:15,109
+used to represent more complex
+information transistors are combined to
+
+60
+00:01:15,109 --> 00:01:15,119
+information transistors are combined to
+ 
+
+61
+00:01:15,119 --> 00:01:17,310
+information transistors are combined to
+create logic gates which still do very
+
+62
+00:01:17,310 --> 00:01:17,320
+create logic gates which still do very
+ 
+
+63
+00:01:17,320 --> 00:01:20,149
+create logic gates which still do very
+simple stuff for example an and gate
+
+64
+00:01:20,149 --> 00:01:20,159
+simple stuff for example an and gate
+ 
+
+65
+00:01:20,159 --> 00:01:21,990
+simple stuff for example an and gate
+sends an output of one if all of its
+
+66
+00:01:21,990 --> 00:01:22,000
+sends an output of one if all of its
+ 
+
+67
+00:01:22,000 --> 00:01:24,789
+sends an output of one if all of its
+inputs are one and an output of zero
+
+68
+00:01:24,789 --> 00:01:24,799
+inputs are one and an output of zero
+ 
+
+69
+00:01:24,799 --> 00:01:27,390
+inputs are one and an output of zero
+otherwise combinations of logic gates
+
+70
+00:01:27,390 --> 00:01:27,400
+otherwise combinations of logic gates
+ 
+
+71
+00:01:27,400 --> 00:01:29,990
+otherwise combinations of logic gates
+finally form meaningful modules say for
+
+72
+00:01:29,990 --> 00:01:30,000
+finally form meaningful modules say for
+ 
+
+73
+00:01:30,000 --> 00:01:32,630
+finally form meaningful modules say for
+adding two numbers once you can add you
+
+74
+00:01:32,630 --> 00:01:32,640
+adding two numbers once you can add you
+ 
+
+75
+00:01:32,640 --> 00:01:34,670
+adding two numbers once you can add you
+can also multiply and once you can
+
+76
+00:01:34,670 --> 00:01:34,680
+can also multiply and once you can
+ 
+
+77
+00:01:34,680 --> 00:01:37,550
+can also multiply and once you can
+multiply you can basically do anything
+
+78
+00:01:37,550 --> 00:01:37,560
+multiply you can basically do anything
+ 
+
+79
+00:01:37,560 --> 00:01:39,630
+multiply you can basically do anything
+since all basic operations are literally
+
+80
+00:01:39,630 --> 00:01:39,640
+since all basic operations are literally
+ 
+
+81
+00:01:39,640 --> 00:01:41,550
+since all basic operations are literally
+simpler than first grade math you can
+
+82
+00:01:41,550 --> 00:01:41,560
+simpler than first grade math you can
+ 
+
+83
+00:01:41,560 --> 00:01:43,109
+simpler than first grade math you can
+imagine a computer as a group of
+
+84
+00:01:43,109 --> 00:01:43,119
+imagine a computer as a group of
+ 
+
+85
+00:01:43,119 --> 00:01:45,230
+imagine a computer as a group of
+seven-year-olds answering really basic
+
+86
+00:01:45,230 --> 00:01:45,240
+seven-year-olds answering really basic
+ 
+
+87
+00:01:45,240 --> 00:01:47,630
+seven-year-olds answering really basic
+math questions a large enough bunch of
+
+88
+00:01:47,630 --> 00:01:47,640
+math questions a large enough bunch of
+ 
+
+89
+00:01:47,640 --> 00:01:49,149
+math questions a large enough bunch of
+them could compute anything from
+
+90
+00:01:49,149 --> 00:01:49,159
+them could compute anything from
+ 
+
+91
+00:01:49,159 --> 00:01:52,350
+them could compute anything from
+astrophysics to Zelda however with parts
+
+92
+00:01:52,350 --> 00:01:52,360
+astrophysics to Zelda however with parts
+ 
+
+93
+00:01:52,360 --> 00:01:54,389
+astrophysics to Zelda however with parts
+getting tinier and tinier quantum
+
+94
+00:01:54,389 --> 00:01:54,399
+getting tinier and tinier quantum
+ 
+
+95
+00:01:54,399 --> 00:01:56,910
+getting tinier and tinier quantum
+physics are making things tricky in a
+
+96
+00:01:56,910 --> 00:01:56,920
+physics are making things tricky in a
+ 
+
+97
+00:01:56,920 --> 00:01:59,029
+physics are making things tricky in a
+nutshell a transistor is just an
+
+98
+00:01:59,029 --> 00:01:59,039
+nutshell a transistor is just an
+ 
+
+99
+00:01:59,039 --> 00:02:01,630
+nutshell a transistor is just an
+electric switch electricity is electrons
+
+100
+00:02:01,630 --> 00:02:01,640
+electric switch electricity is electrons
+ 
+
+101
+00:02:01,640 --> 00:02:03,910
+electric switch electricity is electrons
+moving from one place to another so a
+
+102
+00:02:03,910 --> 00:02:03,920
+moving from one place to another so a
+ 
+
+103
+00:02:03,920 --> 00:02:05,870
+moving from one place to another so a
+switch is a passage that can block
+
+104
+00:02:05,870 --> 00:02:05,880
+switch is a passage that can block
+ 
+
+105
+00:02:05,880 --> 00:02:08,469
+switch is a passage that can block
+electrons from moving in One Direction
+
+106
+00:02:08,469 --> 00:02:08,479
+electrons from moving in One Direction
+ 
+
+107
+00:02:08,479 --> 00:02:10,749
+electrons from moving in One Direction
+today a typical scale for transistors is
+
+108
+00:02:10,749 --> 00:02:10,759
+today a typical scale for transistors is
+ 
+
+109
+00:02:10,759 --> 00:02:13,830
+today a typical scale for transistors is
+40 NM which is about 8 times less than
+
+110
+00:02:13,830 --> 00:02:13,840
+40 NM which is about 8 times less than
+ 
+
+111
+00:02:13,840 --> 00:02:16,990
+40 NM which is about 8 times less than
+the HIV virus's diameter and 500 times
+
+112
+00:02:16,990 --> 00:02:17,000
+the HIV virus's diameter and 500 times
+ 
+
+113
+00:02:17,000 --> 00:02:19,350
+the HIV virus's diameter and 500 times
+smaller than a red blood cells as
+
+114
+00:02:19,350 --> 00:02:19,360
+smaller than a red blood cells as
+ 
+
+115
+00:02:19,360 --> 00:02:21,309
+smaller than a red blood cells as
+transistors are shrinking to the size of
+
+116
+00:02:21,309 --> 00:02:21,319
+transistors are shrinking to the size of
+ 
+
+117
+00:02:21,319 --> 00:02:23,509
+transistors are shrinking to the size of
+only a few atoms electrons may just
+
+118
+00:02:23,509 --> 00:02:23,519
+only a few atoms electrons may just
+ 
+
+119
+00:02:23,519 --> 00:02:25,190
+only a few atoms electrons may just
+transfer themselves to the other side of
+
+120
+00:02:25,190 --> 00:02:25,200
+transfer themselves to the other side of
+ 
+
+121
+00:02:25,200 --> 00:02:27,309
+transfer themselves to the other side of
+a blocked passage via a process called
+
+122
+00:02:27,309 --> 00:02:27,319
+a blocked passage via a process called
+ 
+
+123
+00:02:27,319 --> 00:02:30,030
+a blocked passage via a process called
+Quantum tunneling in the quantum Realm
+
+124
+00:02:30,030 --> 00:02:30,040
+Quantum tunneling in the quantum Realm
+ 
+
+125
+00:02:30,040 --> 00:02:31,910
+Quantum tunneling in the quantum Realm
+physics Works quite differently from the
+
+126
+00:02:31,910 --> 00:02:31,920
+physics Works quite differently from the
+ 
+
+127
+00:02:31,920 --> 00:02:33,830
+physics Works quite differently from the
+predictable ways we're used to and
+
+128
+00:02:33,830 --> 00:02:33,840
+predictable ways we're used to and
+ 
+
+129
+00:02:33,840 --> 00:02:36,190
+predictable ways we're used to and
+traditional computers just stop making
+
+130
+00:02:36,190 --> 00:02:36,200
+traditional computers just stop making
+ 
+
+131
+00:02:36,200 --> 00:02:39,030
+traditional computers just stop making
+sense we are approaching a real physical
+
+132
+00:02:39,030 --> 00:02:39,040
+sense we are approaching a real physical
+ 
+
+133
+00:02:39,040 --> 00:02:41,790
+sense we are approaching a real physical
+barrier for our technological progress
+
+134
+00:02:41,790 --> 00:02:41,800
+barrier for our technological progress
+ 
+
+135
+00:02:41,800 --> 00:02:43,869
+barrier for our technological progress
+to solve this problem scientists are
+
+136
+00:02:43,869 --> 00:02:43,879
+to solve this problem scientists are
+ 
+
+137
+00:02:43,879 --> 00:02:45,710
+to solve this problem scientists are
+trying to use these unusual Quantum
+
+138
+00:02:45,710 --> 00:02:45,720
+trying to use these unusual Quantum
+ 
+
+139
+00:02:45,720 --> 00:02:47,630
+trying to use these unusual Quantum
+properties to their advantage by
+
+140
+00:02:47,630 --> 00:02:47,640
+properties to their advantage by
+ 
+
+141
+00:02:47,640 --> 00:02:50,350
+properties to their advantage by
+building quantum computers in normal
+
+142
+00:02:50,350 --> 00:02:50,360
+building quantum computers in normal
+ 
+
+143
+00:02:50,360 --> 00:02:52,630
+building quantum computers in normal
+computers bits are the smallest units of
+
+144
+00:02:52,630 --> 00:02:52,640
+computers bits are the smallest units of
+ 
+
+145
+00:02:52,640 --> 00:02:55,710
+computers bits are the smallest units of
+information quantum computers use cubits
+
+146
+00:02:55,710 --> 00:02:55,720
+information quantum computers use cubits
+ 
+
+147
+00:02:55,720 --> 00:02:57,390
+information quantum computers use cubits
+which can also be set to one of two
+
+148
+00:02:57,390 --> 00:02:57,400
+which can also be set to one of two
+ 
+
+149
+00:02:57,400 --> 00:02:59,949
+which can also be set to one of two
+values a cubit can be any two level
+
+150
+00:02:59,949 --> 00:02:59,959
+values a cubit can be any two level
+ 
+
+151
+00:02:59,959 --> 00:03:02,110
+values a cubit can be any two level
+Quantum system such as a spin in a
+
+152
+00:03:02,110 --> 00:03:02,120
+Quantum system such as a spin in a
+ 
+
+153
+00:03:02,120 --> 00:03:05,149
+Quantum system such as a spin in a
+magnetic field or a single Photon zero
+
+154
+00:03:05,149 --> 00:03:05,159
+magnetic field or a single Photon zero
+ 
+
+155
+00:03:05,159 --> 00:03:07,869
+magnetic field or a single Photon zero
+and one of this system's possible States
+
+156
+00:03:07,869 --> 00:03:07,879
+and one of this system's possible States
+ 
+
+157
+00:03:07,879 --> 00:03:10,309
+and one of this system's possible States
+like the photon's horizontal or vertical
+
+158
+00:03:10,309 --> 00:03:10,319
+like the photon's horizontal or vertical
+ 
+
+159
+00:03:10,319 --> 00:03:12,509
+like the photon's horizontal or vertical
+polarization in the quantum world the
+
+160
+00:03:12,509 --> 00:03:12,519
+polarization in the quantum world the
+ 
+
+161
+00:03:12,519 --> 00:03:14,350
+polarization in the quantum world the
+Cubit doesn't have to be in just one of
+
+162
+00:03:14,350 --> 00:03:14,360
+Cubit doesn't have to be in just one of
+ 
+
+163
+00:03:14,360 --> 00:03:16,550
+Cubit doesn't have to be in just one of
+those it can be in any proportions of
+
+164
+00:03:16,550 --> 00:03:16,560
+those it can be in any proportions of
+ 
+
+165
+00:03:16,560 --> 00:03:19,070
+those it can be in any proportions of
+both States at once this is called
+
+166
+00:03:19,070 --> 00:03:19,080
+both States at once this is called
+ 
+
+167
+00:03:19,080 --> 00:03:21,670
+both States at once this is called
+superp position but as soon as you test
+
+168
+00:03:21,670 --> 00:03:21,680
+superp position but as soon as you test
+ 
+
+169
+00:03:21,680 --> 00:03:23,789
+superp position but as soon as you test
+its value Say by sending the photon
+
+170
+00:03:23,789 --> 00:03:23,799
+its value Say by sending the photon
+ 
+
+171
+00:03:23,799 --> 00:03:26,270
+its value Say by sending the photon
+through a filter it has to decide to be
+
+172
+00:03:26,270 --> 00:03:26,280
+through a filter it has to decide to be
+ 
+
+173
+00:03:26,280 --> 00:03:28,390
+through a filter it has to decide to be
+either vertically or horizontally
+
+174
+00:03:28,390 --> 00:03:28,400
+either vertically or horizontally
+ 
+
+175
+00:03:28,400 --> 00:03:31,270
+either vertically or horizontally
+polarized so as long as it's unobserved
+
+176
+00:03:31,270 --> 00:03:31,280
+polarized so as long as it's unobserved
+ 
+
+177
+00:03:31,280 --> 00:03:33,190
+polarized so as long as it's unobserved
+the cubid is in a superp position of
+
+178
+00:03:33,190 --> 00:03:33,200
+the cubid is in a superp position of
+ 
+
+179
+00:03:33,200 --> 00:03:35,509
+the cubid is in a superp position of
+probabilities for zero and one and you
+
+180
+00:03:35,509 --> 00:03:35,519
+probabilities for zero and one and you
+ 
+
+181
+00:03:35,519 --> 00:03:38,030
+probabilities for zero and one and you
+can't predict which it will be but the
+
+182
+00:03:38,030 --> 00:03:38,040
+can't predict which it will be but the
+ 
+
+183
+00:03:38,040 --> 00:03:40,229
+can't predict which it will be but the
+instance you measure it it collapses
+
+184
+00:03:40,229 --> 00:03:40,239
+instance you measure it it collapses
+ 
+
+185
+00:03:40,239 --> 00:03:42,949
+instance you measure it it collapses
+into one of the definite States superp
+
+186
+00:03:42,949 --> 00:03:42,959
+into one of the definite States superp
+ 
+
+187
+00:03:42,959 --> 00:03:46,149
+into one of the definite States superp
+position is a GameChanger for classical
+
+188
+00:03:46,149 --> 00:03:46,159
+position is a GameChanger for classical
+ 
+
+189
+00:03:46,159 --> 00:03:47,949
+position is a GameChanger for classical
+bits can be in one of two to the power
+
+190
+00:03:47,949 --> 00:03:47,959
+bits can be in one of two to the power
+ 
+
+191
+00:03:47,959 --> 00:03:49,830
+bits can be in one of two to the power
+of four different configurations at a
+
+192
+00:03:49,830 --> 00:03:49,840
+of four different configurations at a
+ 
+
+193
+00:03:49,840 --> 00:03:52,830
+of four different configurations at a
+time that's 16 possible combinations out
+
+194
+00:03:52,830 --> 00:03:52,840
+time that's 16 possible combinations out
+ 
+
+195
+00:03:52,840 --> 00:03:55,309
+time that's 16 possible combinations out
+of which you can use just one four
+
+196
+00:03:55,309 --> 00:03:55,319
+of which you can use just one four
+ 
+
+197
+00:03:55,319 --> 00:03:57,630
+of which you can use just one four
+cubits in superp position however can be
+
+198
+00:03:57,630 --> 00:03:57,640
+cubits in superp position however can be
+ 
+
+199
+00:03:57,640 --> 00:04:01,069
+cubits in superp position however can be
+in all of those 16 combinations at once
+
+200
+00:04:01,069 --> 00:04:01,079
+in all of those 16 combinations at once
+ 
+
+201
+00:04:01,079 --> 00:04:02,830
+in all of those 16 combinations at once
+this number grows exponentially with
+
+202
+00:04:02,830 --> 00:04:02,840
+this number grows exponentially with
+ 
+
+203
+00:04:02,840 --> 00:04:05,750
+this number grows exponentially with
+each extra Cubit 20 of them can already
+
+204
+00:04:05,750 --> 00:04:05,760
+each extra Cubit 20 of them can already
+ 
+
+205
+00:04:05,760 --> 00:04:08,949
+each extra Cubit 20 of them can already
+store a million values in parallel a
+
+206
+00:04:08,949 --> 00:04:08,959
+store a million values in parallel a
+ 
+
+207
+00:04:08,959 --> 00:04:10,830
+store a million values in parallel a
+really weird and unintuitive property
+
+208
+00:04:10,830 --> 00:04:10,840
+really weird and unintuitive property
+ 
+
+209
+00:04:10,840 --> 00:04:13,630
+really weird and unintuitive property
+cubits can have is entanglement a close
+
+210
+00:04:13,630 --> 00:04:13,640
+cubits can have is entanglement a close
+ 
+
+211
+00:04:13,640 --> 00:04:15,350
+cubits can have is entanglement a close
+connection that makes each of the cubits
+
+212
+00:04:15,350 --> 00:04:15,360
+connection that makes each of the cubits
+ 
+
+213
+00:04:15,360 --> 00:04:17,310
+connection that makes each of the cubits
+react to a change in the other's State
+
+214
+00:04:17,310 --> 00:04:17,320
+react to a change in the other's State
+ 
+
+215
+00:04:17,320 --> 00:04:19,349
+react to a change in the other's State
+instantaneously no matter how far they
+
+216
+00:04:19,349 --> 00:04:19,359
+instantaneously no matter how far they
+ 
+
+217
+00:04:19,359 --> 00:04:21,990
+instantaneously no matter how far they
+are apart this means that when measuring
+
+218
+00:04:21,990 --> 00:04:22,000
+are apart this means that when measuring
+ 
+
+219
+00:04:22,000 --> 00:04:24,030
+are apart this means that when measuring
+just one entangled Cubit you can
+
+220
+00:04:24,030 --> 00:04:24,040
+just one entangled Cubit you can
+ 
+
+221
+00:04:24,040 --> 00:04:25,710
+just one entangled Cubit you can
+directly deduce properties of its
+
+222
+00:04:25,710 --> 00:04:25,720
+directly deduce properties of its
+ 
+
+223
+00:04:25,720 --> 00:04:28,469
+directly deduce properties of its
+Partners without having to look Cubit
+
+224
+00:04:28,469 --> 00:04:28,479
+Partners without having to look Cubit
+ 
+
+225
+00:04:28,479 --> 00:04:31,390
+Partners without having to look Cubit
+manipulation is a mind Bender as well a
+
+226
+00:04:31,390 --> 00:04:31,400
+manipulation is a mind Bender as well a
+ 
+
+227
+00:04:31,400 --> 00:04:33,710
+manipulation is a mind Bender as well a
+normal logic gate gets a simple set of
+
+228
+00:04:33,710 --> 00:04:33,720
+normal logic gate gets a simple set of
+ 
+
+229
+00:04:33,720 --> 00:04:36,749
+normal logic gate gets a simple set of
+inputs and produces one definite output
+
+230
+00:04:36,749 --> 00:04:36,759
+inputs and produces one definite output
+ 
+
+231
+00:04:36,759 --> 00:04:39,110
+inputs and produces one definite output
+a Quantum gate manipulates an input of
+
+232
+00:04:39,110 --> 00:04:39,120
+a Quantum gate manipulates an input of
+ 
+
+233
+00:04:39,120 --> 00:04:41,870
+a Quantum gate manipulates an input of
+superp positions rotates probabilities
+
+234
+00:04:41,870 --> 00:04:41,880
+superp positions rotates probabilities
+ 
+
+235
+00:04:41,880 --> 00:04:44,110
+superp positions rotates probabilities
+and produces another superposition as
+
+236
+00:04:44,110 --> 00:04:44,120
+and produces another superposition as
+ 
+
+237
+00:04:44,120 --> 00:04:47,270
+and produces another superposition as
+its output so a quantum computer sets up
+
+238
+00:04:47,270 --> 00:04:47,280
+its output so a quantum computer sets up
+ 
+
+239
+00:04:47,280 --> 00:04:49,390
+its output so a quantum computer sets up
+some cubits applies Quantum gates to
+
+240
+00:04:49,390 --> 00:04:49,400
+some cubits applies Quantum gates to
+ 
+
+241
+00:04:49,400 --> 00:04:50,870
+some cubits applies Quantum gates to
+entangle them and manipulate
+
+242
+00:04:50,870 --> 00:04:50,880
+entangle them and manipulate
+ 
+
+243
+00:04:50,880 --> 00:04:52,830
+entangle them and manipulate
+probabilities and finally measures the
+
+244
+00:04:52,830 --> 00:04:52,840
+probabilities and finally measures the
+ 
+
+245
+00:04:52,840 --> 00:04:55,510
+probabilities and finally measures the
+outcome collapsing superpositions to an
+
+246
+00:04:55,510 --> 00:04:55,520
+outcome collapsing superpositions to an
+ 
+
+247
+00:04:55,520 --> 00:04:58,430
+outcome collapsing superpositions to an
+actual sequence of zeros and ones what
+
+248
+00:04:58,430 --> 00:04:58,440
+actual sequence of zeros and ones what
+ 
+
+249
+00:04:58,440 --> 00:05:00,110
+actual sequence of zeros and ones what
+this means is that you get the entire
+
+250
+00:05:00,110 --> 00:05:00,120
+this means is that you get the entire
+ 
+
+251
+00:05:00,120 --> 00:05:01,830
+this means is that you get the entire
+lot of calculations that are possible
+
+252
+00:05:01,830 --> 00:05:01,840
+lot of calculations that are possible
+ 
+
+253
+00:05:01,840 --> 00:05:03,870
+lot of calculations that are possible
+with your setup all done at the same
+
+254
+00:05:03,870 --> 00:05:03,880
+with your setup all done at the same
+ 
+
+255
+00:05:03,880 --> 00:05:06,390
+with your setup all done at the same
+time ultimately you can only measure one
+
+256
+00:05:06,390 --> 00:05:06,400
+time ultimately you can only measure one
+ 
+
+257
+00:05:06,400 --> 00:05:08,510
+time ultimately you can only measure one
+of the results and it will only probably
+
+258
+00:05:08,510 --> 00:05:08,520
+of the results and it will only probably
+ 
+
+259
+00:05:08,520 --> 00:05:10,390
+of the results and it will only probably
+be the one you want so you may have to
+
+260
+00:05:10,390 --> 00:05:10,400
+be the one you want so you may have to
+ 
+
+261
+00:05:10,400 --> 00:05:11,909
+be the one you want so you may have to
+double check and try
+
+262
+00:05:11,909 --> 00:05:11,919
+double check and try
+ 
+
+263
+00:05:11,919 --> 00:05:14,790
+double check and try
+again but by cleverly exploiting superp
+
+264
+00:05:14,790 --> 00:05:14,800
+again but by cleverly exploiting superp
+ 
+
+265
+00:05:14,800 --> 00:05:16,710
+again but by cleverly exploiting superp
+position and entanglement this can be
+
+266
+00:05:16,710 --> 00:05:16,720
+position and entanglement this can be
+ 
+
+267
+00:05:16,720 --> 00:05:18,510
+position and entanglement this can be
+exponentially more efficient than would
+
+268
+00:05:18,510 --> 00:05:18,520
+exponentially more efficient than would
+ 
+
+269
+00:05:18,520 --> 00:05:20,870
+exponentially more efficient than would
+ever be possible on a normal
+
+270
+00:05:20,870 --> 00:05:20,880
+ever be possible on a normal
+ 
+
+271
+00:05:20,880 --> 00:05:23,430
+ever be possible on a normal
+computer so while quantum computers will
+
+272
+00:05:23,430 --> 00:05:23,440
+computer so while quantum computers will
+ 
+
+273
+00:05:23,440 --> 00:05:25,790
+computer so while quantum computers will
+probably not replace our home computers
+
+274
+00:05:25,790 --> 00:05:25,800
+probably not replace our home computers
+ 
+
+275
+00:05:25,800 --> 00:05:28,830
+probably not replace our home computers
+in some areas they are vastly superior
+
+276
+00:05:28,830 --> 00:05:28,840
+in some areas they are vastly superior
+ 
+
+277
+00:05:28,840 --> 00:05:31,110
+in some areas they are vastly superior
+one of them is dat database searching to
+
+278
+00:05:31,110 --> 00:05:31,120
+one of them is dat database searching to
+ 
+
+279
+00:05:31,120 --> 00:05:32,990
+one of them is dat database searching to
+find something in a database a normal
+
+280
+00:05:32,990 --> 00:05:33,000
+find something in a database a normal
+ 
+
+281
+00:05:33,000 --> 00:05:34,710
+find something in a database a normal
+computer may have to test every single
+
+282
+00:05:34,710 --> 00:05:34,720
+computer may have to test every single
+ 
+
+283
+00:05:34,720 --> 00:05:37,150
+computer may have to test every single
+one of its entries Quantum algorithms
+
+284
+00:05:37,150 --> 00:05:37,160
+one of its entries Quantum algorithms
+ 
+
+285
+00:05:37,160 --> 00:05:39,350
+one of its entries Quantum algorithms
+need only the square root of that time
+
+286
+00:05:39,350 --> 00:05:39,360
+need only the square root of that time
+ 
+
+287
+00:05:39,360 --> 00:05:41,830
+need only the square root of that time
+which for large databases is a huge
+
+288
+00:05:41,830 --> 00:05:41,840
+which for large databases is a huge
+ 
+
+289
+00:05:41,840 --> 00:05:43,870
+which for large databases is a huge
+difference the most famous use of
+
+290
+00:05:43,870 --> 00:05:43,880
+difference the most famous use of
+ 
+
+291
+00:05:43,880 --> 00:05:47,430
+difference the most famous use of
+quantum computers is ruining it security
+
+292
+00:05:47,430 --> 00:05:47,440
+quantum computers is ruining it security
+ 
+
+293
+00:05:47,440 --> 00:05:49,150
+quantum computers is ruining it security
+right now your browsing email and
+
+294
+00:05:49,150 --> 00:05:49,160
+right now your browsing email and
+ 
+
+295
+00:05:49,160 --> 00:05:51,430
+right now your browsing email and
+banking data is being kept secure by an
+
+296
+00:05:51,430 --> 00:05:51,440
+banking data is being kept secure by an
+ 
+
+297
+00:05:51,440 --> 00:05:52,990
+banking data is being kept secure by an
+encryption system in which you give
+
+298
+00:05:52,990 --> 00:05:53,000
+encryption system in which you give
+ 
+
+299
+00:05:53,000 --> 00:05:55,150
+encryption system in which you give
+everyone a public key to encode messages
+
+300
+00:05:55,150 --> 00:05:55,160
+everyone a public key to encode messages
+ 
+
+301
+00:05:55,160 --> 00:05:57,990
+everyone a public key to encode messages
+only you can decode the problem is that
+
+302
+00:05:57,990 --> 00:05:58,000
+only you can decode the problem is that
+ 
+
+303
+00:05:58,000 --> 00:06:00,230
+only you can decode the problem is that
+this public key can actually be used to
+
+304
+00:06:00,230 --> 00:06:00,240
+this public key can actually be used to
+ 
+
+305
+00:06:00,240 --> 00:06:02,670
+this public key can actually be used to
+calculate your secret private key
+
+306
+00:06:02,670 --> 00:06:02,680
+calculate your secret private key
+ 
+
+307
+00:06:02,680 --> 00:06:04,830
+calculate your secret private key
+luckily doing the necessary math on any
+
+308
+00:06:04,830 --> 00:06:04,840
+luckily doing the necessary math on any
+ 
+
+309
+00:06:04,840 --> 00:06:06,589
+luckily doing the necessary math on any
+normal computer would literally take
+
+310
+00:06:06,589 --> 00:06:06,599
+normal computer would literally take
+ 
+
+311
+00:06:06,599 --> 00:06:09,029
+normal computer would literally take
+years of trial and error but a quantum
+
+312
+00:06:09,029 --> 00:06:09,039
+years of trial and error but a quantum
+ 
+
+313
+00:06:09,039 --> 00:06:11,070
+years of trial and error but a quantum
+computer with exponential speed up could
+
+314
+00:06:11,070 --> 00:06:11,080
+computer with exponential speed up could
+ 
+
+315
+00:06:11,080 --> 00:06:13,350
+computer with exponential speed up could
+do it in a breeze another really
+
+316
+00:06:13,350 --> 00:06:13,360
+do it in a breeze another really
+ 
+
+317
+00:06:13,360 --> 00:06:15,870
+do it in a breeze another really
+exciting new use is simulations
+
+318
+00:06:15,870 --> 00:06:15,880
+exciting new use is simulations
+ 
+
+319
+00:06:15,880 --> 00:06:17,589
+exciting new use is simulations
+simulations of the quantum world are
+
+320
+00:06:17,589 --> 00:06:17,599
+simulations of the quantum world are
+ 
+
+321
+00:06:17,599 --> 00:06:20,270
+simulations of the quantum world are
+very intense on resources and even for
+
+322
+00:06:20,270 --> 00:06:20,280
+very intense on resources and even for
+ 
+
+323
+00:06:20,280 --> 00:06:22,670
+very intense on resources and even for
+bigger structures such as molecules they
+
+324
+00:06:22,670 --> 00:06:22,680
+bigger structures such as molecules they
+ 
+
+325
+00:06:22,680 --> 00:06:25,790
+bigger structures such as molecules they
+often lack accuracy so why not simulate
+
+326
+00:06:25,790 --> 00:06:25,800
+often lack accuracy so why not simulate
+ 
+
+327
+00:06:25,800 --> 00:06:28,070
+often lack accuracy so why not simulate
+quantum physics with actual quantum
+
+328
+00:06:28,070 --> 00:06:28,080
+quantum physics with actual quantum
+ 
+
+329
+00:06:28,080 --> 00:06:30,350
+quantum physics with actual quantum
+physics quantum simulations could
+
+330
+00:06:30,350 --> 00:06:30,360
+physics quantum simulations could
+ 
+
+331
+00:06:30,360 --> 00:06:32,350
+physics quantum simulations could
+provide new insights on proteins that
+
+332
+00:06:32,350 --> 00:06:32,360
+provide new insights on proteins that
+ 
+
+333
+00:06:32,360 --> 00:06:35,110
+provide new insights on proteins that
+might revolutionize medicine right now
+
+334
+00:06:35,110 --> 00:06:35,120
+might revolutionize medicine right now
+ 
+
+335
+00:06:35,120 --> 00:06:36,790
+might revolutionize medicine right now
+we don't know if quantum computers will
+
+336
+00:06:36,790 --> 00:06:36,800
+we don't know if quantum computers will
+ 
+
+337
+00:06:36,800 --> 00:06:39,350
+we don't know if quantum computers will
+be just a very specialized tool or a big
+
+338
+00:06:39,350 --> 00:06:39,360
+be just a very specialized tool or a big
+ 
+
+339
+00:06:39,360 --> 00:06:42,309
+be just a very specialized tool or a big
+revolution for Humanity we have no idea
+
+340
+00:06:42,309 --> 00:06:42,319
+revolution for Humanity we have no idea
+ 
+
+341
+00:06:42,319 --> 00:06:44,150
+revolution for Humanity we have no idea
+where the limits of Technology are and
+
+342
+00:06:44,150 --> 00:06:44,160
+where the limits of Technology are and
+ 
+
+343
+00:06:44,160 --> 00:06:46,749
+where the limits of Technology are and
+there's only one way to find
+
+344
+00:06:46,749 --> 00:06:46,759
+there's only one way to find
+ 
+
+345
+00:06:46,759 --> 00:06:49,189
+there's only one way to find
+out this video is supported by the
+
+346
+00:06:49,189 --> 00:06:49,199
+out this video is supported by the
+ 
+
+347
+00:06:49,199 --> 00:06:51,070
+out this video is supported by the
+Australian Academy of Science which
+
+348
+00:06:51,070 --> 00:06:51,080
+Australian Academy of Science which
+ 
+
+349
+00:06:51,080 --> 00:06:53,390
+Australian Academy of Science which
+promotes and supports excellence in
+
+350
+00:06:53,390 --> 00:06:53,400
+promotes and supports excellence in
+ 
+
+351
+00:06:53,400 --> 00:06:55,869
+promotes and supports excellence in
+science learn more about this topic and
+
+352
+00:06:55,869 --> 00:06:55,879
+science learn more about this topic and
+ 
+
+353
+00:06:55,879 --> 00:06:59,150
+science learn more about this topic and
+others like it at nova.org AU it was a
+
+354
+00:06:59,150 --> 00:06:59,160
+others like it at nova.org AU it was a
+ 
+
+355
+00:06:59,160 --> 00:07:01,350
+others like it at nova.org AU it was a
+blast to work with them so go check out
+
+356
+00:07:01,350 --> 00:07:01,360
+blast to work with them so go check out
+ 
+
+357
+00:07:01,360 --> 00:07:03,670
+blast to work with them so go check out
+their site our videos are also made
+
+358
+00:07:03,670 --> 00:07:03,680
+their site our videos are also made
+ 
+
+359
+00:07:03,680 --> 00:07:05,710
+their site our videos are also made
+possible by your support on
+
+360
+00:07:05,710 --> 00:07:05,720
+possible by your support on
+ 
+
+361
+00:07:05,720 --> 00:07:08,189
+possible by your support on
+patreon.com if you want to support us
+
+362
+00:07:08,189 --> 00:07:08,199
+patreon.com if you want to support us
+ 
+
+363
+00:07:08,199 --> 00:07:10,390
+patreon.com if you want to support us
+and become part of the kots gazak bird
+
+364
+00:07:10,390 --> 00:07:10,400
+and become part of the kots gazak bird
+ 
+
+365
+00:07:10,400 --> 00:07:14,200
+and become part of the kots gazak bird
+Army check out our patreon page
+
+366
+00:07:14,200 --> 00:07:14,210
+Army check out our patreon page
+ 
+
+367
+00:07:14,210 --> 00:07:18,470
+Army check out our patreon page
+[Music]
+

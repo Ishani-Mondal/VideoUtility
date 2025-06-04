@@ -1,0 +1,1355 @@
+1
+00:00:00,060 --> 00:00:01,730
+
+recently there's been a lot of talk
+
+2
+00:00:01,730 --> 00:00:01,740
+recently there's been a lot of talk
+ 
+
+3
+00:00:01,740 --> 00:00:04,309
+recently there's been a lot of talk
+about measles what does measles actually
+
+4
+00:00:04,309 --> 00:00:04,319
+about measles what does measles actually
+ 
+
+5
+00:00:04,319 --> 00:00:06,889
+about measles what does measles actually
+do and should you vaccinate against it
+
+6
+00:00:06,889 --> 00:00:06,899
+do and should you vaccinate against it
+ 
+
+7
+00:00:06,899 --> 00:00:16,790
+do and should you vaccinate against it
+or is this just hysteria measles is a
+
+8
+00:00:16,790 --> 00:00:16,800
+or is this just hysteria measles is a
+ 
+
+9
+00:00:16,800 --> 00:00:20,179
+or is this just hysteria measles is a
+virus a hull of proteins RNA plus some
+
+10
+00:00:20,179 --> 00:00:20,189
+virus a hull of proteins RNA plus some
+ 
+
+11
+00:00:20,189 --> 00:00:22,790
+virus a hull of proteins RNA plus some
+more proteins for reproduction it cannot
+
+12
+00:00:22,790 --> 00:00:22,800
+more proteins for reproduction it cannot
+ 
+
+13
+00:00:22,800 --> 00:00:25,099
+more proteins for reproduction it cannot
+reproduce by itself it needs a host cell
+
+14
+00:00:25,099 --> 00:00:25,109
+reproduce by itself it needs a host cell
+ 
+
+15
+00:00:25,109 --> 00:00:28,009
+reproduce by itself it needs a host cell
+to do so to understand measles we have
+
+16
+00:00:28,009 --> 00:00:28,019
+to do so to understand measles we have
+ 
+
+17
+00:00:28,019 --> 00:00:30,349
+to do so to understand measles we have
+to understand the immune system you
+
+18
+00:00:30,349 --> 00:00:30,359
+to understand the immune system you
+ 
+
+19
+00:00:30,359 --> 00:00:31,820
+to understand the immune system you
+might already have seen the visual
+
+20
+00:00:31,820 --> 00:00:31,830
+might already have seen the visual
+ 
+
+21
+00:00:31,830 --> 00:00:34,160
+might already have seen the visual
+system we developed to help here now
+
+22
+00:00:34,160 --> 00:00:34,170
+system we developed to help here now
+ 
+
+23
+00:00:34,170 --> 00:00:36,380
+system we developed to help here now
+let's focus on the parts of the immune
+
+24
+00:00:36,380 --> 00:00:36,390
+let's focus on the parts of the immune
+ 
+
+25
+00:00:36,390 --> 00:00:38,840
+let's focus on the parts of the immune
+system relevant to measles the measles
+
+26
+00:00:38,840 --> 00:00:38,850
+system relevant to measles the measles
+ 
+
+27
+00:00:38,850 --> 00:00:40,760
+system relevant to measles the measles
+virus enters humans through the nose
+
+28
+00:00:40,760 --> 00:00:40,770
+virus enters humans through the nose
+ 
+
+29
+00:00:40,770 --> 00:00:43,010
+virus enters humans through the nose
+mouth or eyes the measles infection
+
+30
+00:00:43,010 --> 00:00:43,020
+mouth or eyes the measles infection
+ 
+
+31
+00:00:43,020 --> 00:00:45,560
+mouth or eyes the measles infection
+starts in the lungs measles is
+
+32
+00:00:45,560 --> 00:00:45,570
+starts in the lungs measles is
+ 
+
+33
+00:00:45,570 --> 00:00:47,420
+starts in the lungs measles is
+especially good at infecting the body's
+
+34
+00:00:47,420 --> 00:00:47,430
+especially good at infecting the body's
+ 
+
+35
+00:00:47,430 --> 00:00:49,310
+especially good at infecting the body's
+first line of defense metro phages
+
+36
+00:00:49,310 --> 00:00:49,320
+first line of defense metro phages
+ 
+
+37
+00:00:49,320 --> 00:00:51,799
+first line of defense metro phages
+powerful guard cells that protect the
+
+38
+00:00:51,799 --> 00:00:51,809
+powerful guard cells that protect the
+ 
+
+39
+00:00:51,809 --> 00:00:53,959
+powerful guard cells that protect the
+lungs from intruders they enter a cell
+
+40
+00:00:53,959 --> 00:00:53,969
+lungs from intruders they enter a cell
+ 
+
+41
+00:00:53,969 --> 00:00:56,660
+lungs from intruders they enter a cell
+and take it over the virus reprograms
+
+42
+00:00:56,660 --> 00:00:56,670
+and take it over the virus reprograms
+ 
+
+43
+00:00:56,670 --> 00:00:58,580
+and take it over the virus reprograms
+the cell and transforms it into a
+
+44
+00:00:58,580 --> 00:00:58,590
+the cell and transforms it into a
+ 
+
+45
+00:00:58,590 --> 00:01:01,549
+the cell and transforms it into a
+dangerous virus production center once a
+
+46
+00:01:01,549 --> 00:01:01,559
+dangerous virus production center once a
+ 
+
+47
+00:01:01,559 --> 00:01:03,439
+dangerous virus production center once a
+cell there's filled with viruses they
+
+48
+00:01:03,439 --> 00:01:03,449
+cell there's filled with viruses they
+ 
+
+49
+00:01:03,449 --> 00:01:05,750
+cell there's filled with viruses they
+leave the crippled cell and begin the
+
+50
+00:01:05,750 --> 00:01:05,760
+leave the crippled cell and begin the
+ 
+
+51
+00:01:05,760 --> 00:01:07,010
+leave the crippled cell and begin the
+cycle over again
+
+52
+00:01:07,010 --> 00:01:07,020
+cycle over again
+ 
+
+53
+00:01:07,020 --> 00:01:08,929
+cycle over again
+but the immune system has powerful
+
+54
+00:01:08,929 --> 00:01:08,939
+but the immune system has powerful
+ 
+
+55
+00:01:08,939 --> 00:01:11,600
+but the immune system has powerful
+weapons against virus infections natural
+
+56
+00:01:11,600 --> 00:01:11,610
+weapons against virus infections natural
+ 
+
+57
+00:01:11,610 --> 00:01:13,670
+weapons against virus infections natural
+killer cells these cells basically
+
+58
+00:01:13,670 --> 00:01:13,680
+killer cells these cells basically
+ 
+
+59
+00:01:13,680 --> 00:01:16,070
+killer cells these cells basically
+patrol the body and check other cells
+
+60
+00:01:16,070 --> 00:01:16,080
+patrol the body and check other cells
+ 
+
+61
+00:01:16,080 --> 00:01:18,950
+patrol the body and check other cells
+for infections if they find an infected
+
+62
+00:01:18,950 --> 00:01:18,960
+for infections if they find an infected
+ 
+
+63
+00:01:18,960 --> 00:01:20,920
+for infections if they find an infected
+cell they order it to commit suicide
+
+64
+00:01:20,920 --> 00:01:20,930
+cell they order it to commit suicide
+ 
+
+65
+00:01:20,930 --> 00:01:23,780
+cell they order it to commit suicide
+this is so effective that for the first
+
+66
+00:01:23,780 --> 00:01:23,790
+this is so effective that for the first
+ 
+
+67
+00:01:23,790 --> 00:01:25,910
+this is so effective that for the first
+10 days or so you will not even notice
+
+68
+00:01:25,910 --> 00:01:25,920
+10 days or so you will not even notice
+ 
+
+69
+00:01:25,920 --> 00:01:28,070
+10 days or so you will not even notice
+that you're infected with measles and
+
+70
+00:01:28,070 --> 00:01:28,080
+that you're infected with measles and
+ 
+
+71
+00:01:28,080 --> 00:01:31,069
+that you're infected with measles and
+now the reason why measles is so
+
+72
+00:01:31,069 --> 00:01:31,079
+now the reason why measles is so
+ 
+
+73
+00:01:31,079 --> 00:01:33,469
+now the reason why measles is so
+powerful after a period of fighting and
+
+74
+00:01:33,469 --> 00:01:33,479
+powerful after a period of fighting and
+ 
+
+75
+00:01:33,479 --> 00:01:35,840
+powerful after a period of fighting and
+dying macrophages alert the brain of the
+
+76
+00:01:35,840 --> 00:01:35,850
+dying macrophages alert the brain of the
+ 
+
+77
+00:01:35,850 --> 00:01:38,330
+dying macrophages alert the brain of the
+immune system the dendritic cells the
+
+78
+00:01:38,330 --> 00:01:38,340
+immune system the dendritic cells the
+ 
+
+79
+00:01:38,340 --> 00:01:40,460
+immune system the dendritic cells the
+job of the dendritic cells is to collect
+
+80
+00:01:40,460 --> 00:01:40,470
+job of the dendritic cells is to collect
+ 
+
+81
+00:01:40,470 --> 00:01:42,590
+job of the dendritic cells is to collect
+samples of intruders travel to the lymph
+
+82
+00:01:42,590 --> 00:01:42,600
+samples of intruders travel to the lymph
+ 
+
+83
+00:01:42,600 --> 00:01:44,480
+samples of intruders travel to the lymph
+nodes and then activate the heavy
+
+84
+00:01:44,480 --> 00:01:44,490
+nodes and then activate the heavy
+ 
+
+85
+00:01:44,490 --> 00:01:45,330
+nodes and then activate the heavy
+weapons that are
+
+86
+00:01:45,330 --> 00:01:45,340
+weapons that are
+ 
+
+87
+00:01:45,340 --> 00:01:47,609
+weapons that are
+keep the infection very fast in a team
+
+88
+00:01:47,609 --> 00:01:47,619
+keep the infection very fast in a team
+ 
+
+89
+00:01:47,619 --> 00:01:50,880
+keep the infection very fast in a team
+effort but the measles virus uses a
+
+90
+00:01:50,880 --> 00:01:50,890
+effort but the measles virus uses a
+ 
+
+91
+00:01:50,890 --> 00:01:53,580
+effort but the measles virus uses a
+dreadful tactic it infects the dendritic
+
+92
+00:01:53,580 --> 00:01:53,590
+dreadful tactic it infects the dendritic
+ 
+
+93
+00:01:53,590 --> 00:01:56,219
+dreadful tactic it infects the dendritic
+cells and uses them as a Trojan horse to
+
+94
+00:01:56,219 --> 00:01:56,229
+cells and uses them as a Trojan horse to
+ 
+
+95
+00:01:56,229 --> 00:01:58,950
+cells and uses them as a Trojan horse to
+enter deeper into the body the infected
+
+96
+00:01:58,950 --> 00:01:58,960
+enter deeper into the body the infected
+ 
+
+97
+00:01:58,960 --> 00:02:01,109
+enter deeper into the body the infected
+cells travel to the next lymph node to
+
+98
+00:02:01,109 --> 00:02:01,119
+cells travel to the next lymph node to
+ 
+
+99
+00:02:01,119 --> 00:02:03,510
+cells travel to the next lymph node to
+alert other immune cells once it arrives
+
+100
+00:02:03,510 --> 00:02:03,520
+alert other immune cells once it arrives
+ 
+
+101
+00:02:03,520 --> 00:02:06,029
+alert other immune cells once it arrives
+the measles virus spreads around the
+
+102
+00:02:06,029 --> 00:02:06,039
+the measles virus spreads around the
+ 
+
+103
+00:02:06,039 --> 00:02:09,089
+the measles virus spreads around the
+Virgin T and B cells and infects them it
+
+104
+00:02:09,089 --> 00:02:09,099
+Virgin T and B cells and infects them it
+ 
+
+105
+00:02:09,099 --> 00:02:11,610
+Virgin T and B cells and infects them it
+attacks the very system that evolved to
+
+106
+00:02:11,610 --> 00:02:11,620
+attacks the very system that evolved to
+ 
+
+107
+00:02:11,620 --> 00:02:14,640
+attacks the very system that evolved to
+fight it now things happen very fast the
+
+108
+00:02:14,640 --> 00:02:14,650
+fight it now things happen very fast the
+ 
+
+109
+00:02:14,650 --> 00:02:15,839
+fight it now things happen very fast the
+lymph system spreads the virus
+
+110
+00:02:15,839 --> 00:02:15,849
+lymph system spreads the virus
+ 
+
+111
+00:02:15,849 --> 00:02:17,880
+lymph system spreads the virus
+everywhere and it enters the bloodstream
+
+112
+00:02:17,880 --> 00:02:17,890
+everywhere and it enters the bloodstream
+ 
+
+113
+00:02:17,890 --> 00:02:20,550
+everywhere and it enters the bloodstream
+infecting cells while traveling measles
+
+114
+00:02:20,550 --> 00:02:20,560
+infecting cells while traveling measles
+ 
+
+115
+00:02:20,560 --> 00:02:22,440
+infecting cells while traveling measles
+infects organs like the spleen the liver
+
+116
+00:02:22,440 --> 00:02:22,450
+infects organs like the spleen the liver
+ 
+
+117
+00:02:22,450 --> 00:02:24,569
+infects organs like the spleen the liver
+the intestines and most importantly the
+
+118
+00:02:24,569 --> 00:02:24,579
+the intestines and most importantly the
+ 
+
+119
+00:02:24,579 --> 00:02:26,580
+the intestines and most importantly the
+lungs the symptoms range from a very
+
+120
+00:02:26,580 --> 00:02:26,590
+lungs the symptoms range from a very
+ 
+
+121
+00:02:26,590 --> 00:02:28,860
+lungs the symptoms range from a very
+high fever headache sickness bronchitis
+
+122
+00:02:28,860 --> 00:02:28,870
+high fever headache sickness bronchitis
+ 
+
+123
+00:02:28,870 --> 00:02:31,440
+high fever headache sickness bronchitis
+and of course a rash in the lungs the
+
+124
+00:02:31,440 --> 00:02:31,450
+and of course a rash in the lungs the
+ 
+
+125
+00:02:31,450 --> 00:02:33,569
+and of course a rash in the lungs the
+immune system was doing pretty ok but
+
+126
+00:02:33,569 --> 00:02:33,579
+immune system was doing pretty ok but
+ 
+
+127
+00:02:33,579 --> 00:02:35,759
+immune system was doing pretty ok but
+now millions of viruses attack a second
+
+128
+00:02:35,759 --> 00:02:35,769
+now millions of viruses attack a second
+ 
+
+129
+00:02:35,769 --> 00:02:38,100
+now millions of viruses attack a second
+time and killed countless cells wiping
+
+130
+00:02:38,100 --> 00:02:38,110
+time and killed countless cells wiping
+ 
+
+131
+00:02:38,110 --> 00:02:40,140
+time and killed countless cells wiping
+out the defense systems in this phase
+
+132
+00:02:40,140 --> 00:02:40,150
+out the defense systems in this phase
+ 
+
+133
+00:02:40,150 --> 00:02:42,240
+out the defense systems in this phase
+you start coughing out millions of
+
+134
+00:02:42,240 --> 00:02:42,250
+you start coughing out millions of
+ 
+
+135
+00:02:42,250 --> 00:02:45,240
+you start coughing out millions of
+measles viruses measles is so contagious
+
+136
+00:02:45,240 --> 00:02:45,250
+measles viruses measles is so contagious
+ 
+
+137
+00:02:45,250 --> 00:02:46,949
+measles viruses measles is so contagious
+at this stage that if you meet someone
+
+138
+00:02:46,949 --> 00:02:46,959
+at this stage that if you meet someone
+ 
+
+139
+00:02:46,959 --> 00:02:49,170
+at this stage that if you meet someone
+who isn't vaccinated there's about a 90%
+
+140
+00:02:49,170 --> 00:02:49,180
+who isn't vaccinated there's about a 90%
+ 
+
+141
+00:02:49,180 --> 00:02:52,199
+who isn't vaccinated there's about a 90%
+chance you'll infect them without the
+
+142
+00:02:52,199 --> 00:02:52,209
+chance you'll infect them without the
+ 
+
+143
+00:02:52,209 --> 00:02:53,759
+chance you'll infect them without the
+protective army in the lungs other
+
+144
+00:02:53,759 --> 00:02:53,769
+protective army in the lungs other
+ 
+
+145
+00:02:53,769 --> 00:02:55,800
+protective army in the lungs other
+bacteria or viruses that would usually
+
+146
+00:02:55,800 --> 00:02:55,810
+bacteria or viruses that would usually
+ 
+
+147
+00:02:55,810 --> 00:02:57,870
+bacteria or viruses that would usually
+not stand a chance can now enter the
+
+148
+00:02:57,870 --> 00:02:57,880
+not stand a chance can now enter the
+ 
+
+149
+00:02:57,880 --> 00:03:00,210
+not stand a chance can now enter the
+lungs and develop into harmful parallel
+
+150
+00:03:00,210 --> 00:03:00,220
+lungs and develop into harmful parallel
+ 
+
+151
+00:03:00,220 --> 00:03:02,160
+lungs and develop into harmful parallel
+infections that can cause pneumonia
+
+152
+00:03:02,160 --> 00:03:02,170
+infections that can cause pneumonia
+ 
+
+153
+00:03:02,170 --> 00:03:04,080
+infections that can cause pneumonia
+the most common way to die from measles
+
+154
+00:03:04,080 --> 00:03:04,090
+the most common way to die from measles
+ 
+
+155
+00:03:04,090 --> 00:03:06,569
+the most common way to die from measles
+your body's immune system is now
+
+156
+00:03:06,569 --> 00:03:06,579
+your body's immune system is now
+ 
+
+157
+00:03:06,579 --> 00:03:09,000
+your body's immune system is now
+seriously wounded various protective
+
+158
+00:03:09,000 --> 00:03:09,010
+seriously wounded various protective
+ 
+
+159
+00:03:09,010 --> 00:03:11,670
+seriously wounded various protective
+systems are hurt and disrupted the virus
+
+160
+00:03:11,670 --> 00:03:11,680
+systems are hurt and disrupted the virus
+ 
+
+161
+00:03:11,680 --> 00:03:13,890
+systems are hurt and disrupted the virus
+spreads everywhere in affecting the skin
+
+162
+00:03:13,890 --> 00:03:13,900
+spreads everywhere in affecting the skin
+ 
+
+163
+00:03:13,900 --> 00:03:15,180
+spreads everywhere in affecting the skin
+all over the body
+
+164
+00:03:15,180 --> 00:03:15,190
+all over the body
+ 
+
+165
+00:03:15,190 --> 00:03:17,670
+all over the body
+the typical measles rash now becomes
+
+166
+00:03:17,670 --> 00:03:17,680
+the typical measles rash now becomes
+ 
+
+167
+00:03:17,680 --> 00:03:20,460
+the typical measles rash now becomes
+visible and in some cases the measles
+
+168
+00:03:20,460 --> 00:03:20,470
+visible and in some cases the measles
+ 
+
+169
+00:03:20,470 --> 00:03:22,979
+visible and in some cases the measles
+virus reaches the brain and causes a
+
+170
+00:03:22,979 --> 00:03:22,989
+virus reaches the brain and causes a
+ 
+
+171
+00:03:22,989 --> 00:03:25,199
+virus reaches the brain and causes a
+brain infection if it does so the
+
+172
+00:03:25,199 --> 00:03:25,209
+brain infection if it does so the
+ 
+
+173
+00:03:25,209 --> 00:03:27,659
+brain infection if it does so the
+chances of dying are between 20 to 40
+
+174
+00:03:27,659 --> 00:03:27,669
+chances of dying are between 20 to 40
+ 
+
+175
+00:03:27,669 --> 00:03:29,520
+chances of dying are between 20 to 40
+percent and there may be long-term
+
+176
+00:03:29,520 --> 00:03:29,530
+percent and there may be long-term
+ 
+
+177
+00:03:29,530 --> 00:03:32,069
+percent and there may be long-term
+damage but your body is far from giving
+
+178
+00:03:32,069 --> 00:03:32,079
+damage but your body is far from giving
+ 
+
+179
+00:03:32,079 --> 00:03:34,259
+damage but your body is far from giving
+up at this stage and it fights back
+
+180
+00:03:34,259 --> 00:03:34,269
+up at this stage and it fights back
+ 
+
+181
+00:03:34,269 --> 00:03:36,569
+up at this stage and it fights back
+aggressively some dendritic cells
+
+182
+00:03:36,569 --> 00:03:36,579
+aggressively some dendritic cells
+ 
+
+183
+00:03:36,579 --> 00:03:39,270
+aggressively some dendritic cells
+survive long enough to activate the anti
+
+184
+00:03:39,270 --> 00:03:39,280
+survive long enough to activate the anti
+ 
+
+185
+00:03:39,280 --> 00:03:42,059
+survive long enough to activate the anti
+virus forces of the body plasma cells in
+
+186
+00:03:42,059 --> 00:03:42,069
+virus forces of the body plasma cells in
+ 
+
+187
+00:03:42,069 --> 00:03:44,309
+virus forces of the body plasma cells in
+the lymph nodes start producing billions
+
+188
+00:03:44,309 --> 00:03:44,319
+the lymph nodes start producing billions
+ 
+
+189
+00:03:44,319 --> 00:03:46,860
+the lymph nodes start producing billions
+of antibodies tiny proteins that mark
+
+190
+00:03:46,860 --> 00:03:46,870
+of antibodies tiny proteins that mark
+ 
+
+191
+00:03:46,870 --> 00:03:49,319
+of antibodies tiny proteins that mark
+infected cells for destruction or clump
+
+192
+00:03:49,319 --> 00:03:49,329
+infected cells for destruction or clump
+ 
+
+193
+00:03:49,329 --> 00:03:51,839
+infected cells for destruction or clump
+the virus together killer T cells flood
+
+194
+00:03:51,839 --> 00:03:51,849
+the virus together killer T cells flood
+ 
+
+195
+00:03:51,849 --> 00:03:53,120
+the virus together killer T cells flood
+the body and killin
+
+196
+00:03:53,120 --> 00:03:53,130
+the body and killin
+ 
+
+197
+00:03:53,130 --> 00:03:55,580
+the body and killin
+it sells left and right after two to
+
+198
+00:03:55,580 --> 00:03:55,590
+it sells left and right after two to
+ 
+
+199
+00:03:55,590 --> 00:03:57,290
+it sells left and right after two to
+three weeks the body usually gets the
+
+200
+00:03:57,290 --> 00:03:57,300
+three weeks the body usually gets the
+ 
+
+201
+00:03:57,300 --> 00:03:59,480
+three weeks the body usually gets the
+upper hand and overwhelms the infection
+
+202
+00:03:59,480 --> 00:03:59,490
+upper hand and overwhelms the infection
+ 
+
+203
+00:03:59,490 --> 00:04:01,550
+upper hand and overwhelms the infection
+but the immune system is now seriously
+
+204
+00:04:01,550 --> 00:04:01,560
+but the immune system is now seriously
+ 
+
+205
+00:04:01,560 --> 00:04:04,070
+but the immune system is now seriously
+weakened and may take weeks or months to
+
+206
+00:04:04,070 --> 00:04:04,080
+weakened and may take weeks or months to
+ 
+
+207
+00:04:04,080 --> 00:04:06,260
+weakened and may take weeks or months to
+recover leaving the body vulnerable to
+
+208
+00:04:06,260 --> 00:04:06,270
+recover leaving the body vulnerable to
+ 
+
+209
+00:04:06,270 --> 00:04:09,200
+recover leaving the body vulnerable to
+other diseases but if you make it you
+
+210
+00:04:09,200 --> 00:04:09,210
+other diseases but if you make it you
+ 
+
+211
+00:04:09,210 --> 00:04:11,630
+other diseases but if you make it you
+are now immune the immune system
+
+212
+00:04:11,630 --> 00:04:11,640
+are now immune the immune system
+ 
+
+213
+00:04:11,640 --> 00:04:14,630
+are now immune the immune system
+remembers the virus forever measles is
+
+214
+00:04:14,630 --> 00:04:14,640
+remembers the virus forever measles is
+ 
+
+215
+00:04:14,640 --> 00:04:15,470
+remembers the virus forever measles is
+no joke
+
+216
+00:04:15,470 --> 00:04:15,480
+no joke
+ 
+
+217
+00:04:15,480 --> 00:04:18,199
+no joke
+although 84% of all humans are
+
+218
+00:04:18,199 --> 00:04:18,209
+although 84% of all humans are
+ 
+
+219
+00:04:18,209 --> 00:04:20,240
+although 84% of all humans are
+vaccinated against measles one hundred
+
+220
+00:04:20,240 --> 00:04:20,250
+vaccinated against measles one hundred
+ 
+
+221
+00:04:20,250 --> 00:04:21,949
+vaccinated against measles one hundred
+and twenty-two thousand people died
+
+222
+00:04:21,949 --> 00:04:21,959
+and twenty-two thousand people died
+ 
+
+223
+00:04:21,959 --> 00:04:24,560
+and twenty-two thousand people died
+because of the infection in 2014 some
+
+224
+00:04:24,560 --> 00:04:24,570
+because of the infection in 2014 some
+ 
+
+225
+00:04:24,570 --> 00:04:26,570
+because of the infection in 2014 some
+people cannot get vaccinations and
+
+226
+00:04:26,570 --> 00:04:26,580
+people cannot get vaccinations and
+ 
+
+227
+00:04:26,580 --> 00:04:28,340
+people cannot get vaccinations and
+because they are too young because of
+
+228
+00:04:28,340 --> 00:04:28,350
+because they are too young because of
+ 
+
+229
+00:04:28,350 --> 00:04:30,590
+because they are too young because of
+chemotherapy or HIV or because they're
+
+230
+00:04:30,590 --> 00:04:30,600
+chemotherapy or HIV or because they're
+ 
+
+231
+00:04:30,600 --> 00:04:32,900
+chemotherapy or HIV or because they're
+allergic to the vaccine they need the
+
+232
+00:04:32,900 --> 00:04:32,910
+allergic to the vaccine they need the
+ 
+
+233
+00:04:32,910 --> 00:04:34,970
+allergic to the vaccine they need the
+rest of us to stop the disease for them
+
+234
+00:04:34,970 --> 00:04:34,980
+rest of us to stop the disease for them
+ 
+
+235
+00:04:34,980 --> 00:04:37,850
+rest of us to stop the disease for them
+the measles vaccination is safe cheap
+
+236
+00:04:37,850 --> 00:04:37,860
+the measles vaccination is safe cheap
+ 
+
+237
+00:04:37,860 --> 00:04:40,430
+the measles vaccination is safe cheap
+and available there are no benefits from
+
+238
+00:04:40,430 --> 00:04:40,440
+and available there are no benefits from
+ 
+
+239
+00:04:40,440 --> 00:04:41,600
+and available there are no benefits from
+having measles at all
+
+240
+00:04:41,600 --> 00:04:41,610
+having measles at all
+ 
+
+241
+00:04:41,610 --> 00:04:43,370
+having measles at all
+you don't strengthen your immune system
+
+242
+00:04:43,370 --> 00:04:43,380
+you don't strengthen your immune system
+ 
+
+243
+00:04:43,380 --> 00:04:46,370
+you don't strengthen your immune system
+and it's not more natural most people
+
+244
+00:04:46,370 --> 00:04:46,380
+and it's not more natural most people
+ 
+
+245
+00:04:46,380 --> 00:04:48,350
+and it's not more natural most people
+who don't vaccinate only want the best
+
+246
+00:04:48,350 --> 00:04:48,360
+who don't vaccinate only want the best
+ 
+
+247
+00:04:48,360 --> 00:04:49,160
+who don't vaccinate only want the best
+for their children
+
+248
+00:04:49,160 --> 00:04:49,170
+for their children
+ 
+
+249
+00:04:49,170 --> 00:04:50,720
+for their children
+which is honorable but if you ask
+
+250
+00:04:50,720 --> 00:04:50,730
+which is honorable but if you ask
+ 
+
+251
+00:04:50,730 --> 00:04:52,640
+which is honorable but if you ask
+yourself am i putting the life of my
+
+252
+00:04:52,640 --> 00:04:52,650
+yourself am i putting the life of my
+ 
+
+253
+00:04:52,650 --> 00:04:54,530
+yourself am i putting the life of my
+child and other children at risk by not
+
+254
+00:04:54,530 --> 00:04:54,540
+child and other children at risk by not
+ 
+
+255
+00:04:54,540 --> 00:04:56,780
+child and other children at risk by not
+vaccinating against measles the sad
+
+256
+00:04:56,780 --> 00:04:56,790
+vaccinating against measles the sad
+ 
+
+257
+00:04:56,790 --> 00:05:00,770
+vaccinating against measles the sad
+answer is yes yes you are let's not play
+
+258
+00:05:00,770 --> 00:05:00,780
+answer is yes yes you are let's not play
+ 
+
+259
+00:05:00,780 --> 00:05:02,360
+answer is yes yes you are let's not play
+the blame game though let's work
+
+260
+00:05:02,360 --> 00:05:02,370
+the blame game though let's work
+ 
+
+261
+00:05:02,370 --> 00:05:04,250
+the blame game though let's work
+together and eradicate this virus
+
+262
+00:05:04,250 --> 00:05:04,260
+together and eradicate this virus
+ 
+
+263
+00:05:04,260 --> 00:05:05,930
+together and eradicate this virus
+together we can get rid of these
+
+264
+00:05:05,930 --> 00:05:05,940
+together we can get rid of these
+ 
+
+265
+00:05:05,940 --> 00:05:08,030
+together we can get rid of these
+dreadful monsters and consign them to
+
+266
+00:05:08,030 --> 00:05:08,040
+dreadful monsters and consign them to
+ 
+
+267
+00:05:08,040 --> 00:05:25,080
+dreadful monsters and consign them to
+their rightful place the history books
+
+268
+00:05:25,080 --> 00:05:25,090
+
+ 
+
+269
+00:05:25,090 --> 00:05:30,679
+
+[Music]
+
+270
+00:05:30,679 --> 00:05:30,689
+
+ 
+
+271
+00:05:30,689 --> 00:05:32,749
+
+you
+
